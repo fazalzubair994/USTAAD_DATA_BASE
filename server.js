@@ -60,10 +60,7 @@ app.get("/api/getData", (req, res) => {
     
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
-    console.log(
-      "User results after filtering:",
-      JSON.stringify(user.results, null, 2)
-    );
+   
 
     // Find the keyboard by name
     const keyboard = keyboards.find(
