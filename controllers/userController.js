@@ -86,68 +86,71 @@ const checkUser = (req, res) => {
 
 const updateUserResults = (req, res) => {
   const userResults = req.body;
-  const keyboardLayout = userResults.results.keyboardLyout;
-  const userId = userResults.results.userId;
 
-  // console.log(keyboardLayout);
-  // console.log("userID: " + userId);
-  // Find the index of the user in the users array by userInfo.ID
+  if (!userResults || !userResults.results) {
+    return res.status(400).send("Invalid request: Missing results data.");
+  }
+
+  const { keyboardLyout, userId } = userResults.results;
+
+  if (!keyboardLyout || !userId) {
+    return res.status(400).send("Invalid request: Missing keyboardLyout or userId.");
+  }
+
   const userData = users.find((user) => user._id === userId);
-  // console.log("userData: " + JSON.stringify(userData));
 
-  if (userData) {
-    let PrevResults = userData.results;
-    if (!Array.isArray(PrevResults)) {
-      // console.log("PrevResults is not an array...");
-      PrevResults = [PrevResults];
-    }
-    // console.log(PrevResults);
-    const existingLayoutIndex = PrevResults.findIndex(
-      (result) => result.keyboardLyout === keyboardLayout
-    );
+  if (!userData) {
+    return res.status(404).send(`User not found for ID: ${userId}`);
+  }
 
-    // console.log(existingLayoutIndex);
-    if (existingLayoutIndex !== -1) {
-      const currentDate = new Date();
-      // Keyboard layout exists, replace the existing data
-      PrevResults[existingLayoutIndex] = {
-        status: "updated..." + formatDate(currentDate),
-        certificateComplition: userResults.results.certificateComplition,
-        CRNO: userResults.results.CRNO,
-        keyboardLyout: userResults.results.keyboardLyout,
-        drills: userResults.results.drills || {},
-        games: userResults.results.games || {},
-      };
+  let PrevResults = userData.results;
 
-      userData.results = PrevResults;
-      // console.log(userData.results);
-      users = users.filter((user) => user.userInfo.ID !== userId);
-      users.push(userData);
-      fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
-        if (error) {
-          console.log(error);
-        } else {
-          return res.status(200).send("User Results updated successfully");
-        }
-      });
-    } else {
-      // User does not exist, push the new user data to the array
-      PrevResults.push(userResults.results);
-      userData.results = PrevResults;
-      users = users.filter((user) => user.userInfo.ID !== userId);
-      users.push(userData);
-      fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
-        if (error) {
-          console.log(error);
-        } else {
-          return res.status(201).send("New Layout Results added successfully");
-        }
-      });
-    }
+  if (!Array.isArray(PrevResults)) {
+    PrevResults = [PrevResults];
+  }
+
+  const existingLayoutIndex = PrevResults.findIndex(
+    (result) => result.keyboardLyout === keyboardLyout
+  );
+
+  if (existingLayoutIndex !== -1) {
+    const currentDate = new Date();
+    PrevResults[existingLayoutIndex] = {
+      status: "updated..." + formatDate(currentDate),
+      certificateComplition: userResults.results.certificateComplition,
+      CRNO: userResults.results.CRNO,
+      keyboardLyout,
+      drills: userResults.results.drills || {},
+      games: userResults.results.games || {},
+    };
+
+    userData.results = PrevResults;
+    users = users.filter((user) => user._id !== userId);
+    users.push(userData);
+
+    fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
+      if (error) {
+        console.error("Error writing file:", error);
+        return res.status(500).send("Failed to update user results.");
+      }
+      return res.status(200).send("User Results updated successfully.");
+    });
   } else {
-    return res.status(404).send("Invalid id....: " + userId);
+    PrevResults.push(userResults.results);
+    userData.results = PrevResults;
+    users = users.filter((user) => user._id !== userId);
+    users.push(userData);
+
+    fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
+      if (error) {
+        console.error("Error writing file:", error);
+        return res.status(500).send("Failed to add new layout results.");
+      }
+      return res.status(201).send("New Layout Results added successfully.");
+    });
   }
 };
+
 
 const updateSettings = (req, res) => {
   const userSettings = req.body;
