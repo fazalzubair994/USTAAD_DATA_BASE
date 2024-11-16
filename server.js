@@ -47,6 +47,8 @@ app.get("/api/getData", (req, res) => {
 
     if (!user) {
       console.error("No user found with the given ID:", userID);
+      console.log("-------------: Printing users Data :-----------------");
+      console.log(users);
       return res.status(404).send("No user found with the given ID.");
     }
 
