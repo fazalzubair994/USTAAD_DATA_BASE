@@ -95,11 +95,11 @@ const checkUser = (req, res) => {
       ],
     };
 
-    console.log("New user object created:", JSON.stringify(userObj, null, 2));
+   
 
     // Add the new user to the users array
     users.push(userObj);
-    console.log("Updated users array:", JSON.stringify(users, null, 2));
+   
 
     // Write the updated users array to the file
     fs.writeFile(
