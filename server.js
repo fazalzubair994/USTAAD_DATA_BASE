@@ -44,7 +44,6 @@ app.get("/api/getData", (req, res) => {
 
     // Find the user by userID
     const user = users.find((user) => user._id === userID);
-    console.log("User found:", JSON.stringify(user, null, 2));
 
     if (!user) {
       console.error("No user found with the given ID:", userID);
@@ -53,18 +52,12 @@ app.get("/api/getData", (req, res) => {
 
     // Process user results
     let userResults = Array.isArray(user.results) ? user.results : [];
-    console.log(
-      "User results before filtering:",
-      JSON.stringify(userResults, null, 2)
-    );
+    
 
     const layoutResults = userResults.filter(
-      (result) => result?.keyboardLayout === keyboardName
+      (result) => result?.keyboardLyout === keyboardName
     );
-    console.log(
-      "Filtered layout results:",
-      JSON.stringify(layoutResults, null, 2)
-    );
+    
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
     console.log(
@@ -76,7 +69,6 @@ app.get("/api/getData", (req, res) => {
     const keyboard = keyboards.find(
       (keyboard) => keyboard.properties.name === keyboardName
     );
-    console.log("Keyboard found:", JSON.stringify(keyboard, null, 2));
 
     if (!keyboard) {
       console.error("Keyboard not found with the given name:", keyboardName);
@@ -90,10 +82,7 @@ app.get("/api/getData", (req, res) => {
       drillMaterial: drillData[keyboard.properties.practiceMeterialID],
       userData: user,
     };
-    console.log(
-      "Requested data prepared:",
-      JSON.stringify(requestedData, null, 2)
-    );
+   
 
     // Send response
     res.json(requestedData);
