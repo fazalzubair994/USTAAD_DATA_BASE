@@ -123,6 +123,7 @@ const checkUser = (req, res) => {
 
 const updateUserResults = (req, res) => {
   try {
+    console.log("---------: Updating User Results : -------------------");
     console.log("Incoming request body:", JSON.stringify(req.body, null, 2));
     
     const userResults = req.body;
