@@ -60,7 +60,9 @@ app.get("/api/getData", (req, res) => {
     
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
-   
+    console.log("--------- Printing the user results ------");
+     console.log(user.results);
+    console.log(".............");
 
     // Find the keyboard by name
     const keyboard = keyboards.find(
