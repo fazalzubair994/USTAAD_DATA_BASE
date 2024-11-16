@@ -85,67 +85,93 @@ const checkUser = (req, res) => {
 };
 
 const updateUserResults = (req, res) => {
-  const userResults = req.body;
-  const keyboardLayout = userResults.results.keyboardLyout;
-  const userId = userResults.results.userId;
+  try {
+    console.log("Incoming request body:", JSON.stringify(req.body, null, 2));
+    
+    const userResults = req.body;
 
-  // console.log(keyboardLayout);
-  // console.log("userID: " + userId);
-  // Find the index of the user in the users array by userInfo.ID
-  const userData = users.find((user) => user._id === userId);
-  // console.log("userData: " + JSON.stringify(userData));
+    if (!userResults || !userResults.results) {
+      console.error("Invalid request body format. Missing 'results'.");
+      return res.status(400).send("Invalid request body. Missing 'results'.");
+    }
 
-  if (userData) {
+    const keyboardLayout = userResults.results.keyboardLyout;
+    const userId = userResults.results.userId;
+
+    console.log("Extracted keyboardLayout:", keyboardLayout);
+    console.log("Extracted userId:", userId);
+
+    if (!keyboardLayout || !userId) {
+      console.error("Missing 'keyboardLyout' or 'userId' in request body.");
+      return res.status(400).send("Missing 'keyboardLyout' or 'userId' in request body.");
+    }
+
+    // Find the user by userId
+    const userData = users.find((user) => user._id === userId);
+    console.log("Found userData:", JSON.stringify(userData, null, 2));
+
+    if (!userData) {
+      console.error("User not found for userId:", userId);
+      return res.status(404).send(`Invalid id: ${userId}`);
+    }
+
     let PrevResults = userData.results;
+    console.log("Previous results before processing:", JSON.stringify(PrevResults, null, 2));
+
     if (!Array.isArray(PrevResults)) {
-      // console.log("PrevResults is not an array...");
+      console.warn("PrevResults is not an array, converting to array...");
       PrevResults = [PrevResults];
     }
-    // console.log(PrevResults);
+
     const existingLayoutIndex = PrevResults.findIndex(
       (result) => result.keyboardLyout === keyboardLayout
     );
+    console.log("Existing layout index:", existingLayoutIndex);
 
-    // console.log(existingLayoutIndex);
+    const currentDate = new Date();
     if (existingLayoutIndex !== -1) {
-      const currentDate = new Date();
-      // Keyboard layout exists, replace the existing data
+      console.log("Updating existing keyboard layout results...");
+
+      // Update the existing layout data
       PrevResults[existingLayoutIndex] = {
-        status: "updated..." + formatDate(currentDate),
+        status: "updated..." + currentDate.toISOString(),
         certificateComplition: userResults.results.certificateComplition,
         CRNO: userResults.results.CRNO,
-        keyboardLyout: userResults.results.keyboardLyout,
+        keyboardLyout: keyboardLayout,
         drills: userResults.results.drills || {},
         games: userResults.results.games || {},
       };
 
-      userData.results = PrevResults;
-      // console.log(userData.results);
-      users = users.filter((user) => user.userInfo.ID !== userId);
-      users.push(userData);
-      fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
-        if (error) {
-          console.log(error);
-        } else {
-          return res.status(200).send("User Results updated successfully");
-        }
-      });
     } else {
-      // User does not exist, push the new user data to the array
+      console.log("Adding new keyboard layout results...");
+      // Add new layout data
       PrevResults.push(userResults.results);
-      userData.results = PrevResults;
-      users = users.filter((user) => user.userInfo.ID !== userId);
-      users.push(userData);
-      fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
-        if (error) {
-          console.log(error);
-        } else {
-          return res.status(201).send("New Layout Results added successfully");
-        }
-      });
     }
-  } else {
-    return res.status(404).send("Invalid id....: " + userId);
+
+    userData.results = PrevResults;
+    console.log("Updated user results:", JSON.stringify(userData.results, null, 2));
+
+    users = users.filter((user) => user._id !== userId);
+    users.push(userData);
+
+    console.log("Final users array before saving to file:", JSON.stringify(users, null, 2));
+
+    // Write updated users to file
+    fs.writeFile("./data/users.json", JSON.stringify(users, null, 2), (error) => {
+      if (error) {
+        console.error("Error writing to file:", error);
+        return res.status(500).send("Error saving data.");
+      }
+
+      const message = existingLayoutIndex !== -1
+        ? "User results updated successfully."
+        : "New layout results added successfully.";
+      console.log(message);
+      return res.status(existingLayoutIndex !== -1 ? 200 : 201).send(message);
+    });
+  } catch (error) {
+    console.error("An unexpected error occurred:", error);
+    return res.status(500).send("Internal server error.");
   }
 };
 
