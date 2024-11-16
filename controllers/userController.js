@@ -23,19 +23,41 @@ const formatTime = (date) => {
 };
 
 const checkUser = (req, res) => {
-  const newUserData = req.body;
-  const userID = newUserData.userInfo.id;
-  const userExists = users.some((user) => user._id === userID);
-  if (userExists) {
-    return res.status(200).send("User already exists");
-  } else {
+  try {
+    console.log("---------Checking New User-------------------");
+    console.log("Incoming request body:", JSON.stringify(req.body, null, 2));
+
+    const newUserData = req.body;
+
+    if (!newUserData || !newUserData.userInfo || !newUserData.userInfo.id) {
+      console.error("Invalid request body. Missing userInfo or user ID.");
+      return res
+        .status(400)
+        .send("Invalid request body. Missing userInfo or user ID.");
+    }
+
+    const userID = newUserData.userInfo.id;
+    console.log("Extracted userID:", userID);
+
+    // Check if user already exists
+    const userExists = users.some((user) => user._id === userID);
+    console.log("Does user already exist?", userExists);
+
+    if (userExists) {
+      console.log("User with ID", userID, "already exists.");
+      return res.status(200).send("User already exists");
+    }
+
+    console.log("User does not exist. Creating new user...");
     const currentDate = new Date();
-    let userObj = {
+
+    // Create the new user object
+    const userObj = {
       _id: newUserData.userInfo.id,
       userInfo: {
         name: newUserData.userInfo.name,
         ID: newUserData.userInfo.id,
-        emal: newUserData.userInfo.email,
+        email: newUserData.userInfo.email,
         registerationDate: formatDate(currentDate),
         registerationTime: formatTime(currentDate),
         lastActiveDate: formatDate(currentDate),
@@ -56,14 +78,14 @@ const checkUser = (req, res) => {
           games: {
             safeDrive: {
               id: newUserData.userInfo.id,
-              accountName: newUserData.name,
+              accountName: newUserData.userInfo.name,
               date: formatDate(currentDate),
               score: "0",
               time: formatTime(currentDate),
             },
             cityDefender: {
               id: newUserData.userInfo.id,
-              accountName: newUserData.name,
+              accountName: newUserData.userInfo.name,
               date: formatDate(currentDate),
               score: "0",
               time: formatTime(currentDate),
@@ -73,14 +95,29 @@ const checkUser = (req, res) => {
       ],
     };
 
+    console.log("New user object created:", JSON.stringify(userObj, null, 2));
+
+    // Add the new user to the users array
     users.push(userObj);
-    fs.writeFile("./data/users.json", JSON.stringify(users), (error) => {
-      if (error) {
-        console.log(error);
-      } else {
+    console.log("Updated users array:", JSON.stringify(users, null, 2));
+
+    // Write the updated users array to the file
+    fs.writeFile(
+      "./data/users.json",
+      JSON.stringify(users, null, 2),
+      (error) => {
+        if (error) {
+          console.error("Error writing to users.json:", error);
+          return res.status(500).send("Error saving user data.");
+        }
+
+        console.log("New user added successfully to users.json.");
         return res.status(201).send("New user added successfully");
       }
-    });
+    );
+  } catch (error) {
+    console.error("An unexpected error occurred:", error);
+    return res.status(500).send("Internal server error.");
   }
 };
 
