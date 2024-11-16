@@ -108,7 +108,6 @@ const updateUserResults = (req, res) => {
 
     // Find the user by userId
     const userData = users.find((user) => user._id === userId);
-    console.log("Found userData:", JSON.stringify(userData, null, 2));
 
     if (!userData) {
       console.error("User not found for userId:", userId);
@@ -116,7 +115,6 @@ const updateUserResults = (req, res) => {
     }
 
     let PrevResults = userData.results;
-    console.log("Previous results before processing:", JSON.stringify(PrevResults, null, 2));
 
     if (!Array.isArray(PrevResults)) {
       console.warn("PrevResults is not an array, converting to array...");
@@ -149,12 +147,10 @@ const updateUserResults = (req, res) => {
     }
 
     userData.results = PrevResults;
-    console.log("Updated user results:", JSON.stringify(userData.results, null, 2));
 
     users = users.filter((user) => user._id !== userId);
     users.push(userData);
 
-    console.log("Final users array before saving to file:", JSON.stringify(users, null, 2));
 
     // Write updated users to file
     fs.writeFile("./data/users.json", JSON.stringify(users, null, 2), (error) => {
