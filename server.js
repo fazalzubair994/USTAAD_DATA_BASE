@@ -30,47 +30,38 @@ app.use("/api/info", routeInfoRoutes);
 app.get("/api/getData", (req, res) => {
   const { userID, keyboardName } = req.query;
 
-  // Check for missing userID
   if (!userID) {
     return res.status(400).send("Missing userID");
   }
-  const user = { ...users.find((user) => user._id === userID) };
 
-  let userResults = user.results;
-
-  if (!Array.isArray(userResults)) {
-    // console.log("userResults is not an array...");
-    userResults = [userResults];
-  }
-  // console.log(typeof keyboardName);
-  const layoutResults = userResults.filter(
-    (result) => result.keyboardLyout === keyboardName
-  );
-
-  if (Array.isArray(layoutResults) && layoutResults.length > 0) {
-    user.results = layoutResults[0];
-  } else {
-    user.results = null;
-  }
-  // console.log(users);
+  const user = users.find((user) => user._id === userID);
   if (!user) {
     return res.status(404).send("No user found with the given ID.");
   }
 
+  let userResults = Array.isArray(user.results) ? user.results : [];
+  const layoutResults = userResults.filter(
+    (result) => result?.keyboardLayout === keyboardName
+  );
+
+  user.results = layoutResults.length > 0 ? layoutResults[0] : null;
+
   const keyboard = keyboards.find(
     (keyboard) => keyboard.properties.name === keyboardName
   );
-  if (keyboard) {
-    const requestedData = {
-      keyboard: keyboard,
-      uiData: UiData[keyboard.properties.userInterfaceID],
-      drillMaterial: drillData[keyboard.properties.practiceMeterialID],
-      userData: user,
-    };
-    return res.json(requestedData);
-  } else {
-    return res.end("Keyboard is not found....");
+
+  if (!keyboard) {
+    return res.status(404).send("Keyboard is not found.");
   }
+
+  const requestedData = {
+    keyboard: keyboard,
+    uiData: UiData[keyboard.properties.userInterfaceID],
+    drillMaterial: drillData[keyboard.properties.practiceMeterialID],
+    userData: user,
+  };
+
+  res.json(requestedData);
 });
 
 app.listen(PORT, () => {
