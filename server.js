@@ -15,6 +15,8 @@ const keyboards = require("./data/Keyboards");
 const UiData = require("./data/userInterface");
 const drillData = require("./data/dirllMeterials.json");
 
+// Define the path to users.json
+const usersFilePath = path.join(__dirname, "./data/users.json");
 // Increase the JSON payload size limit
 app.use(express.json({ limit: "50mb" }));
 app.use(cors());
