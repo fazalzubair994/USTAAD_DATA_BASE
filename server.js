@@ -1,5 +1,6 @@
 const express = require("express");
 const cors = require("cors");
+const fs = require("fs"); // Import the fs module
 const app = express();
 const PORT = 8000;
 
