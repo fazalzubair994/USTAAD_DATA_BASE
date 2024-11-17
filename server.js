@@ -12,7 +12,6 @@ const languageCards = require("./routes/languageCardsRoutes");
 
 const keyboards = require("./data/Keyboards");
 const UiData = require("./data/userInterface");
-const users = require("./data/users.json");
 const drillData = require("./data/dirllMeterials.json");
 
 // Increase the JSON payload size limit
@@ -41,7 +40,8 @@ app.get("/api/getData", (req, res) => {
     }
     console.log("Received userID:", userID);
     console.log("Received keyboardName:", keyboardName);
-
+  // Reload the users from the file
+    const users = JSON.parse(fs.readFileSync(usersFilePath, "utf-8"));
     // Find the user by userID
     const user = users.find((user) => user._id === userID);
 
