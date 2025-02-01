@@ -13,10 +13,7 @@
       "appTheme": "dark",
       "randomizer": false,
       "fontSizes": "small",
-      "durationDialog": {
-        "duration": "3 minutes",
-        "showDialog": true
-      },
+      "durationDialog": { "duration": "3 minutes", "showDialog": true },
       "internalKeyboard": "on"
     },
     "results": [
@@ -74,10 +71,7 @@
       "appTheme": "light",
       "randomizer": true,
       "fontSizes": "LareAmount of Time",
-      "durationDialog": {
-        "duration": "3 minutes",
-        "showDialog": true
-      },
+      "durationDialog": { "duration": "3 minutes", "showDialog": true },
       "internalKeyboard": "on"
     },
     "results": [
@@ -131,13 +125,10 @@
       "lastActiveDate": "19 Oct 2024"
     },
     "applicationSettings": {
-      "appTheme": "light",
+      "appTheme": "dark",
       "randomizer": false,
       "fontSizes": "small",
-      "durationDialog": {
-        "duration": 3,
-        "showDialog": true
-      },
+      "durationDialog": { "duration": 3, "showDialog": true },
       "internalKeyboard": true
     },
     "results": [
@@ -834,6 +825,555 @@
             "time": "08:51 PM",
             "id": "google-oauth2|113264337379638322119",
             "accountName": "fazal zubair"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "google-oauth2|102661208436732075649",
+    "userInfo": {
+      "name": "Movies Summary",
+      "ID": "google-oauth2|102661208436732075649",
+      "email": "justmoviessummary@gmail.com",
+      "registerationDate": "18 Jan 2025",
+      "registerationTime": "10:03 PM",
+      "lastActiveDate": "18 Jan 2025"
+    },
+    "applicationSettings": {
+      "appTheme": "dark",
+      "randomizer": false,
+      "fontSizes": "small",
+      "durationDialog": { "duration": "3 minutes", "showDialog": true },
+      "internalKeyboard": "on"
+    },
+    "results": [
+      {
+        "status": "updated...2025-01-18T22:07:25.617Z",
+        "certificateComplition": false,
+        "CRNO": null,
+        "keyboardLyout": "QWERTY keyboard",
+        "drills": {},
+        "games": {
+          "safeDrive": {
+            "score": 23,
+            "date": "19-Jan-2025",
+            "time": "01:07",
+            "id": "google-oauth2|102661208436732075649",
+            "accountName": "Movies Summary"
+          },
+          "cityDefender": {
+            "accountName": "Movies Summary",
+            "date": "18 Jan 2025",
+            "score": "0",
+            "id": "google-oauth2|102661208436732075649",
+            "time": "10:03 PM"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "google-oauth2|108538751112077745316",
+    "userInfo": {
+      "name": "Inzi I.T Services Chitral",
+      "ID": "google-oauth2|108538751112077745316",
+      "email": "inzichitral@gmail.com",
+      "registerationDate": "31 Jan 2025",
+      "registerationTime": "9:02 AM",
+      "lastActiveDate": "31 Jan 2025"
+    },
+    "applicationSettings": {
+      "appTheme": "dark",
+      "randomizer": false,
+      "fontSizes": "small",
+      "durationDialog": { "duration": "3 minutes", "showDialog": true },
+      "internalKeyboard": "on"
+    },
+    "results": [
+      {
+        "keyboardLyout": "QWERTY keyboard",
+        "certificateComplition": false,
+        "CRNO": null,
+        "drills": {},
+        "games": {
+          "safeDrive": {
+            "id": "google-oauth2|108538751112077745316",
+            "accountName": "Inzi I.T Services Chitral",
+            "date": "31 Jan 2025",
+            "score": "0",
+            "time": "9:02 AM"
+          },
+          "cityDefender": {
+            "id": "google-oauth2|108538751112077745316",
+            "accountName": "Inzi I.T Services Chitral",
+            "date": "31 Jan 2025",
+            "score": "0",
+            "time": "9:02 AM"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "google-oauth2|112803862957854686331",
+    "userInfo": {
+      "name": "shahzaib",
+      "ID": "google-oauth2|112803862957854686331",
+      "email": "s3271635@gmail.com",
+      "registerationDate": "31 Jan 2025",
+      "registerationTime": "9:40 AM",
+      "lastActiveDate": "31 Jan 2025"
+    },
+    "applicationSettings": {
+      "appTheme": "dark",
+      "randomizer": false,
+      "fontSizes": "small",
+      "durationDialog": { "duration": "3 minutes", "showDialog": true },
+      "internalKeyboard": "on"
+    },
+    "results": [
+      {
+        "keyboardLyout": "QWERTY keyboard",
+        "certificateComplition": false,
+        "CRNO": null,
+        "drills": {},
+        "games": {
+          "safeDrive": {
+            "id": "google-oauth2|112803862957854686331",
+            "accountName": "shahzaib",
+            "date": "31 Jan 2025",
+            "score": "0",
+            "time": "9:40 AM"
+          },
+          "cityDefender": {
+            "id": "google-oauth2|112803862957854686331",
+            "accountName": "shahzaib",
+            "date": "31 Jan 2025",
+            "score": "0",
+            "time": "9:40 AM"
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_id": "google-oauth2|109730174289075038105",
+    "userInfo": {
+      "name": "azmat ullah",
+      "ID": "google-oauth2|109730174289075038105",
+      "email": "azmatulllahx72@gmail.com",
+      "registerationDate": "29 Jan 2025",
+      "registerationTime": "10:05 AM",
+      "lastActiveDate": "29 Jan 2025"
+    },
+    "applicationSettings": {
+      "appTheme": "dark",
+      "randomizer": false,
+      "fontSizes": "small",
+      "durationDialog": { "duration": "3 minutes", "showDialog": true },
+      "internalKeyboard": "on"
+    },
+    "results": [
+      {
+        "status": "updated...2025-02-01T10:53:25.326Z",
+        "certificateComplition": false,
+        "CRNO": null,
+        "keyboardLyout": "QWERTY keyboard",
+        "drills": {
+          "1.1-1": {
+            "selectedDuration": "03:00",
+            "practiceDuration": "03:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:08 PM",
+            "serialNo": "1.1-1",
+            "drillType": "keys",
+            "drillTitle": "Keys Practice [ a, s, d, f, j, k, l, ; ]",
+            "score": null,
+            "grossWpm": "37",
+            "netWpm": "33",
+            "grossKpm": "186",
+            "netKpm": "167",
+            "accuracy": "90.1",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.1-2": {
+            "selectedDuration": "02:00",
+            "practiceDuration": "02:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:12 PM",
+            "serialNo": "1.1-2",
+            "drillType": "cityDefender, keys",
+            "drillTitle": "Key Challenge: (City Defender)",
+            "score": 60,
+            "grossWpm": "7",
+            "netWpm": "6",
+            "grossKpm": "33",
+            "netKpm": "30",
+            "accuracy": "90.9",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.1-3": {
+            "selectedDuration": "03:00",
+            "practiceDuration": "03:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:16 PM",
+            "serialNo": "1.1-3",
+            "drillType": "words",
+            "drillTitle": "Word Practice",
+            "score": null,
+            "grossWpm": "39",
+            "netWpm": "36",
+            "grossKpm": "193",
+            "netKpm": "178",
+            "accuracy": "92.2",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.1-4": {
+            "selectedDuration": "02:00",
+            "practiceDuration": "02:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:18 PM",
+            "serialNo": "1.1-4",
+            "drillType": "cityDefender, words",
+            "drillTitle": "Play Game (City Defender)",
+            "score": 225,
+            "grossWpm": "30",
+            "netWpm": "23",
+            "grossKpm": "148",
+            "netKpm": "113",
+            "accuracy": "76.3",
+            "collectedStars": 2,
+            "drillCompletion": true,
+            "certificateCriteria": false
+          },
+          "1.2-1": {
+            "selectedDuration": "03:00",
+            "practiceDuration": "03:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:22 PM",
+            "serialNo": "1.2-1",
+            "drillType": "keys",
+            "drillTitle": "Keys Practice [ Home row + e, i ]",
+            "score": null,
+            "grossWpm": "39",
+            "netWpm": "34",
+            "grossKpm": "194",
+            "netKpm": "170",
+            "accuracy": "87.8",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.2-2": {
+            "selectedDuration": "02:00",
+            "practiceDuration": "01:01",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:23 PM",
+            "serialNo": "1.2-2",
+            "drillType": "cityDefender, keys",
+            "drillTitle": "Key Challenge: (City Defender)",
+            "score": 25,
+            "grossWpm": "5",
+            "netWpm": "5",
+            "grossKpm": "26",
+            "netKpm": "25",
+            "accuracy": "96.2",
+            "collectedStars": 1,
+            "drillCompletion": false,
+            "certificateCriteria": false
+          },
+          "1.2-3": {
+            "selectedDuration": "03:00",
+            "practiceDuration": "03:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:26 PM",
+            "serialNo": "1.2-3",
+            "drillType": "words",
+            "drillTitle": "Word Practice",
+            "score": null,
+            "grossWpm": "43",
+            "netWpm": "39",
+            "grossKpm": "216",
+            "netKpm": "197",
+            "accuracy": "91.2",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.2-4": {
+            "selectedDuration": "02:00",
+            "practiceDuration": "00:37",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:27 PM",
+            "serialNo": "1.2-4",
+            "drillType": "cityDefender, words",
+            "drillTitle": "Play Game (City Defender)",
+            "score": 40,
+            "grossWpm": "23",
+            "netWpm": "13",
+            "grossKpm": "114",
+            "netKpm": "65",
+            "accuracy": "57.1",
+            "collectedStars": 0,
+            "drillCompletion": false,
+            "certificateCriteria": false
+          },
+          "1.3-1": {
+            "selectedDuration": "05:00",
+            "practiceDuration": "05:00",
+            "practiceDate": "30-Jan-2025",
+            "practiceTime": "3:22 PM",
+            "serialNo": "1.3-1",
+            "drillType": "keys",
+            "drillTitle": "Keys Practice [ . . . + g, t, h, y ]",
+            "score": null,
+            "grossWpm": "34",
+            "netWpm": "29",
+            "grossKpm": "169",
+            "netKpm": "144",
+            "accuracy": "85.3",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.3-2": {
+            "selectedDuration": "02:00",
+            "practiceDuration": "02:00",
+            "practiceDate": "29-Jan-2025",
+            "practiceTime": "3:33 PM",
+            "serialNo": "1.3-2",
+            "drillType": "cityDefender, keys",
+            "drillTitle": "Key Challenge: (City Defender)",
+            "score": 59,
+            "grossWpm": "8",
+            "netWpm": "6",
+            "grossKpm": "38",
+            "netKpm": "30",
+            "accuracy": "78.7",
+            "collectedStars": 2,
+            "drillCompletion": true,
+            "certificateCriteria": false
+          },
+          "1.3-3": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "30-Jan-2025",
+            "practiceTime": "3:29 PM",
+            "serialNo": "1.3-3",
+            "drillType": "words",
+            "drillTitle": "Word Practice",
+            "score": null,
+            "grossWpm": "38",
+            "netWpm": "33",
+            "grossKpm": "190",
+            "netKpm": "167",
+            "accuracy": "88.1",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.3-4": {
+            "selectedDuration": "02:00",
+            "practiceDuration": "00:35",
+            "practiceDate": "30-Jan-2025",
+            "practiceTime": "3:30 PM",
+            "serialNo": "1.3-4",
+            "drillType": "cityDefender, words",
+            "drillTitle": "Play Game (City Defender)",
+            "score": 28,
+            "grossWpm": "21",
+            "netWpm": "10",
+            "grossKpm": "103",
+            "netKpm": "48",
+            "accuracy": "46.7",
+            "collectedStars": 0,
+            "drillCompletion": false,
+            "certificateCriteria": false
+          },
+          "1.4-1": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "31-Jan-2025",
+            "practiceTime": "3:14 PM",
+            "serialNo": "1.4-1",
+            "drillType": "keys",
+            "drillTitle": "Keys Practice [ . . . + r, w, u, o ]",
+            "score": null,
+            "grossWpm": "33",
+            "netWpm": "29",
+            "grossKpm": "165",
+            "netKpm": "145",
+            "accuracy": "87.6",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.4-3": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:12 PM",
+            "serialNo": "1.4-3",
+            "drillType": "words",
+            "drillTitle": "Word Practice",
+            "score": null,
+            "grossWpm": "34",
+            "netWpm": "30",
+            "grossKpm": "172",
+            "netKpm": "152",
+            "accuracy": "88.7",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.4-4": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:19 PM",
+            "serialNo": "1.4-4",
+            "drillType": "sentence",
+            "drillTitle": "Sentence Writing",
+            "score": null,
+            "grossWpm": "38",
+            "netWpm": "33",
+            "grossKpm": "192",
+            "netKpm": "164",
+            "accuracy": "85.3",
+            "collectedStars": 2,
+            "drillCompletion": true,
+            "certificateCriteria": false
+          },
+          "1.5-1": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "30-Jan-2025",
+            "practiceTime": "3:56 PM",
+            "serialNo": "1.5-1",
+            "drillType": "keys",
+            "drillTitle": "Keys Practice [ . . . + q, c, p, comma ]",
+            "score": null,
+            "grossWpm": "28",
+            "netWpm": "24",
+            "grossKpm": "139",
+            "netKpm": "120",
+            "accuracy": "86.6",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.5-3": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:25 PM",
+            "serialNo": "1.5-3",
+            "drillType": "words",
+            "drillTitle": "Word Practice",
+            "score": null,
+            "grossWpm": "24",
+            "netWpm": "20",
+            "grossKpm": "118",
+            "netKpm": "99",
+            "accuracy": "83.5",
+            "collectedStars": 2,
+            "drillCompletion": true,
+            "certificateCriteria": false
+          },
+          "1.5-4": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:33 PM",
+            "serialNo": "1.5-4",
+            "drillType": "sentence",
+            "drillTitle": "Sentence Writing",
+            "score": null,
+            "grossWpm": "34",
+            "netWpm": "29",
+            "grossKpm": "172",
+            "netKpm": "147",
+            "accuracy": "85.4",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.6-1": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:39 PM",
+            "serialNo": "1.6-1",
+            "drillType": "keys",
+            "drillTitle": "Keys Practice [ . . . + v, b, n, m ]",
+            "score": null,
+            "grossWpm": "29",
+            "netWpm": "24",
+            "grossKpm": "143",
+            "netKpm": "121",
+            "accuracy": "84.7",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          },
+          "1.6-3": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:46 PM",
+            "serialNo": "1.6-3",
+            "drillType": "words",
+            "drillTitle": "Word Practice",
+            "score": null,
+            "grossWpm": "24",
+            "netWpm": "21",
+            "grossKpm": "122",
+            "netKpm": "103",
+            "accuracy": "84.4",
+            "collectedStars": 2,
+            "drillCompletion": true,
+            "certificateCriteria": false
+          },
+          "1.6-4": {
+            "selectedDuration": "06:00",
+            "practiceDuration": "06:00",
+            "practiceDate": "1-Feb-2025",
+            "practiceTime": "3:53 PM",
+            "serialNo": "1.6-4",
+            "drillType": "sentence",
+            "drillTitle": "Sentence Writing",
+            "score": null,
+            "grossWpm": "31",
+            "netWpm": "26",
+            "grossKpm": "153",
+            "netKpm": "131",
+            "accuracy": "85.6",
+            "collectedStars": 3,
+            "drillCompletion": true,
+            "certificateCriteria": true
+          }
+        },
+        "games": {
+          "safeDrive": {
+            "accountName": "azmat ullah",
+            "date": "29 Jan 2025",
+            "score": "0",
+            "id": "google-oauth2|109730174289075038105",
+            "time": "10:05 AM"
+          },
+          "cityDefender": {
+            "accountName": "azmat ullah",
+            "date": "29 Jan 2025",
+            "score": "0",
+            "id": "google-oauth2|109730174289075038105",
+            "time": "10:05 AM"
           }
         }
       }
