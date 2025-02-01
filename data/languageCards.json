@@ -36,11 +36,11 @@
     "id": 18,
     "primaryFontSize": 20,
     "secondaryFontSize": 18,
-    "requestFont": "Noto Sans Arabic",
-    "fontURL": "https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&display=swap",
+    "requestFont": "Noto Naskh Arabic",
+    "fontURL": "https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400..700&display=swap",
 
     "supportedLayouts": [
-      { "name": "Arabic 101", "id": 1, "status": 10 },
+      { "name": "Arabic (101)", "id": 1, "status": 20 },
       { "name": "Arabic 102", "id": 2, "status": 10 }
     ]
   }
