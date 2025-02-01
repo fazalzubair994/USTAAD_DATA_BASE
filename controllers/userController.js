@@ -124,7 +124,6 @@ const checkUser = (req, res) => {
 const updateUserResults = (req, res) => {
   try {
     console.log("---------: Updating User Results : -------------------");
-    console.log("Incoming request body:", JSON.stringify(req.body, null, 2));
     
     const userResults = req.body;
 
@@ -136,8 +135,7 @@ const updateUserResults = (req, res) => {
     const keyboardLayout = userResults.results.keyboardLyout;
     const userId = userResults.results.userId;
 
-    console.log("Extracted keyboardLayout:", keyboardLayout);
-    console.log("Extracted userId:", userId);
+    
 
     if (!keyboardLayout || !userId) {
       console.error("Missing 'keyboardLyout' or 'userId' in request body.");
