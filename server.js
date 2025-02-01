@@ -44,31 +44,23 @@ app.get("/api/getData", (req, res) => {
     }
     console.log("Received userID:", userID);
     console.log("Received keyboardName:", keyboardName);
-  // Reload the users from the file
+    // Reload the users from the file
     const users = JSON.parse(fs.readFileSync(usersFilePath, "utf-8"));
     // Find the user by userID
     const user = users.find((user) => user._id === userID);
 
     if (!user) {
-      console.error("No user found with the given ID:", userID);
-      console.log("-------------: Printing users Data :-----------------");
-      console.log(users);
       return res.status(404).send("No user found with the given ID.");
     }
 
     // Process user results
     let userResults = Array.isArray(user.results) ? user.results : [];
-    
 
     const layoutResults = userResults.filter(
       (result) => result?.keyboardLyout === keyboardName
     );
-    
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
-    console.log("--------- Printing the user results ------");
-     console.log(user.results);
-    console.log(".............");
 
     // Find the keyboard by name
     const keyboard = keyboards.find(
@@ -87,17 +79,15 @@ app.get("/api/getData", (req, res) => {
       drillMaterial: drillData[keyboard.properties.practiceMeterialID],
       userData: user,
     };
-   
 
     // Send response
     res.json(requestedData);
-    console.log("Response sent successfully.");
+    console.log("Response sent successfully. to: + " + userID);
   } catch (error) {
     console.error("An unexpected error occurred:", error);
     return res.status(500).send("Internal server error.");
   }
 });
-
 
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
