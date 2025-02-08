@@ -14,13 +14,13 @@ const getAllUsers = (req, res) => {
 
 const checkUser = (req, res) => {
   try {
-    console.log("---------Checking New User-------------------");
+    console.log("---------Checking New Hmid-------------------");
 
     const newUserData = req.body;
-    console.log(JSON.stringify(newUserData, null, 2));
+   
 
     const { hmid } = newUserData;
-
+ console.log("hmid: " + hmid);
     // Check if user already exists
     const existingUser = users.find((user) => user.hmid === hmid);
 
@@ -36,7 +36,7 @@ const checkUser = (req, res) => {
     const filePath = path.join(__dirname, "../data/DesktopUsers.json");
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
 
-    console.log("New user added:", newUserData);
+    console.log("New user added:", hmid);
     return res
       .status(201)
       .json({ message: "New user added.", user: newUserData });
