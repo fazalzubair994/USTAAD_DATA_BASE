@@ -26,7 +26,6 @@ app.use("/api/languageCards", languageCards);
 app.use("/api/ui", userInterfaceRoutes);
 app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
-app.use("/api/appID", appIdRoutes);
 app.use("/api/desktop", desktopRoutes);
 
 app.get("/api/getData", (req, res) => {
