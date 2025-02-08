@@ -1,7 +1,5 @@
 const express = require("express");
 const cors = require("cors");
-const fs = require("fs"); // Import the fs module
-const path = require("path"); // Import path for file path resolution
 const app = express();
 const PORT = 8000;
 
@@ -15,9 +13,9 @@ const languageCards = require("./routes/languageCardsRoutes");
 const keyboards = require("./data/Keyboards");
 const UiData = require("./data/userInterface");
 const drillData = require("./data/dirllMeterials.json");
+const appIdRoutes = require("./routes/appIdRoutes");
+const desktopRoutes = require("./routes/desktopRoutes");
 
-// Define the path to users.json
-const usersFilePath = path.join(__dirname, "./data/users.json");
 // Increase the JSON payload size limit
 app.use(express.json({ limit: "50mb" }));
 app.use(cors());
@@ -29,6 +27,8 @@ app.use("/api/languageCards", languageCards);
 app.use("/api/ui", userInterfaceRoutes);
 app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
+app.use("/api/appID", appIdRoutes);
+app.use("/api/desktop", desktopRoutes);
 
 app.get("/api/getData", (req, res) => {
   try {
@@ -50,6 +50,9 @@ app.get("/api/getData", (req, res) => {
     const user = users.find((user) => user._id === userID);
 
     if (!user) {
+      console.error("No user found with the given ID:", userID);
+      console.log("-------------: Printing users Data :-----------------");
+      console.log(users);
       return res.status(404).send("No user found with the given ID.");
     }
 
@@ -61,6 +64,9 @@ app.get("/api/getData", (req, res) => {
     );
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
+    console.log("--------- Printing the user results ------");
+    console.log(user.results);
+    console.log(".............");
 
     // Find the keyboard by name
     const keyboard = keyboards.find(
@@ -82,7 +88,7 @@ app.get("/api/getData", (req, res) => {
 
     // Send response
     res.json(requestedData);
-    console.log("Response sent successfully. to: + " + userID);
+    console.log("Response sent successfully.");
   } catch (error) {
     console.error("An unexpected error occurred:", error);
     return res.status(500).send("Internal server error.");
