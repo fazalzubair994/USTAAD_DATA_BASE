@@ -1,0 +1,42 @@
+[
+  {
+    "hmid": "32b82e3d0e543bee3094bfa4cb5fc191436e3c54bfe4a2bbda5",
+    "processorID": "BFEBFBFF0001067A",
+    "systemInfo": {
+      "processorId": "BFEBFBFF0001067A",
+      "motherboardSerial": "2UA81905Y7",
+      "biosSerial": "2UA81905Y7",
+      "userName": "fazal",
+      "totalMemory": 4210343936,
+      "freeMemory": 1524887552,
+      "platform": "win32",
+      "arch": "x64",
+      "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz",
+      "cpuCores": 2
+    },
+    "moreInfo": {
+      "processorModel": "Intel Core™2 Duo E8500",
+      "processorCores": 2,
+      "processorSpeed": "3.16 GHz",
+      "cpuFlags": "de mce apic sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+      "motherboardManufacturer": "Hewlett-Packard",
+      "motherboardModel": "0AA8h",
+      "motherboardSerial": "2UA81905Y7",
+      "biosVendor": "Hewlett-Packard",
+      "biosVersion": "786F1 v01.35",
+      "biosSerial": "2UA81905Y7",
+      "totalMemory": "4.21 GB",
+      "freeMemory": "1.52 GB",
+      "osPlatform": "Windows",
+      "osDistro": "Microsoft Windows 10 Pro",
+      "osRelease": "10.0.19045",
+      "osArch": "x64"
+    },
+    "appMode": {
+      "startDate": "2025-02-04T14:43:19.795Z",
+      "expiryDate": "2025-02-07T14:43:19.795Z",
+      "mode": 1,
+      "days": 3
+    }
+  }
+]
