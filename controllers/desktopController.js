@@ -36,7 +36,7 @@ const checkUser = (req, res) => {
     const filePath = path.join(__dirname, "../data/DesktopUsers.json");
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
 
-    console.log("New user added:", hmid);
+    console.log("New user added:"+ hmid);
     return res
       .status(201)
       .json({ message: "New user added.", user: newUserData });
