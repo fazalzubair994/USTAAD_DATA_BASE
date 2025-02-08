@@ -1,5 +1,6 @@
 const express = require("express");
 const cors = require("cors");
+const fs = require("fs");
 const app = express();
 const PORT = 8000;
 
@@ -43,7 +44,7 @@ app.get("/api/getData", (req, res) => {
     console.log("Received userID:", userID);
     console.log("Received keyboardName:", keyboardName);
     // Reload the users from the file
-    const users = JSON.parse(fs.readFileSync(usersFilePath, "utf-8"));
+    const users = JSON.parse(fs.readFileSync("./data/users.json", "utf-8"));
     // Find the user by userID
     const user = users.find((user) => user._id === userID);
 
