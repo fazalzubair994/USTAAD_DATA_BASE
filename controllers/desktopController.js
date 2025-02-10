@@ -24,13 +24,13 @@ const checkUser = (req, res) => {
     const existingUser = users.find((user) => user.hmid === hmid);
 
     if (existingUser) {
-      console.log("User already exists:", existingUser);
+      console.log("User already exists:", hmid);
       return res.json({ message: "User found.", user: existingUser });
     }
 
     // If user doesn't exist, add to the users array and save to file
     users.push(newUserData);
-
+console.log("New User Pushed:", hmid);
     // Write the updated users array back to the JSON file
     const filePath = path.join(__dirname, "../data/DesktopUsers.json");
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
