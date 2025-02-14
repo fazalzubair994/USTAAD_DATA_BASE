@@ -235,6 +235,41 @@ const updateSettings = (req, res) => {
     return res.status(200).send("User settings updated successfully.");
   });
 };
+
+const updateUserData = (req, res) => {
+  
+
+  const userinfo = req.body;
+  const id = req.params.id;
+
+  if (!id) {
+    return res.status(400).send("ID is required.");
+  }
+
+  console.log("updating the user Data...");
+  // Assuming users are loaded from a file or stored in memory
+  const user = users.find((user) => user._id === id);
+
+  if (!user) {
+    return res.status(404).send("User not found.");
+  }
+
+  // Update user's settings
+  user.userInfo = userinfo;
+
+  // Write updated users array back to the file
+  fs.writeFile("./data/users.json", JSON.stringify(users, null, 2), (error) => {
+    if (error) {
+      console.error("Error writing file:", error);
+      return res.status(500).send("Error updating user settings.");
+    }
+
+    return res.status(200).send("User settings updated successfully.");
+  });
+};
+
+
+
 const singleUser = (req, res) => {
   const id = req.params.id;
   if (id) {
@@ -270,5 +305,6 @@ module.exports = {
   checkUser,
   updateUserResults,
   deleteUser,
+  updateUserData,
   updateSettings,
 };
