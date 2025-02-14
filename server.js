@@ -6,6 +6,7 @@ const PORT = 8000;
 
 const keyboardRoutes = require("./routes/keyboardRoutes");
 const userRoutes = require("./routes/userRoutes");
+const certificattion = require("./routes/certificateRoutes");
 const routeInfoRoutes = require("./routes/routeInfoRoutes");
 const userInterfaceRoutes = require("./routes/userInterfaceRoutes");
 const drillDataRoutes = require("./routes/drillMeterialsRoutes");
@@ -23,6 +24,7 @@ app.use(cors());
 // Use routes
 app.use("/api/keyboards", keyboardRoutes);
 app.use("/api/users", userRoutes);
+app.use("/api/certificate", certificattion);
 app.use("/api/languageCards", languageCards);
 app.use("/api/ui", userInterfaceRoutes);
 app.use("/api/drillData", drillDataRoutes);
