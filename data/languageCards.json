@@ -13,6 +13,21 @@
       { "name": "AZERTY keyboard", "id": 2, "status": 10 },
       { "name": "DAVORK keyboard", "id": 3, "status": 10 }
     ]
+  },{
+    "languageFamily": "English",
+    "cardTitle": "Colemak",
+    "languageDescription": "Colemak is a modern alternative to the traditional QWERTY layout, designed for efficiency and ergonomics. It reduces finger movement, increases typing speed, and minimizes strain. Typing with Colemak enhances comfort and reduces the risk of repetitive strain injuries. Popular among programmers and advanced typists, Colemak provides a smoother learning curve than Dvorak while still offering major benefits. With widespread support in operating systems and keyboards, mastering Colemak opens up a smarter, healthier way to type.",
+    "id": 12,
+    "primaryFontSize": 20,
+    "direction": "ltr",
+    "secondaryFontSize": 18,
+    "requestFont": "Poppins-Regular",
+    "fontURL": null,
+    "supportedLayouts": [
+      { "name": "Colemak Standard", "id": 1, "status": 20 },
+      { "name": "Colemak-DH", "id": 2, "status": 10 },
+      { "name": "Colemak-DHm", "id": 3, "status": 10 }
+    ]
   },
   {
     "languageFamily": "Urdu",
