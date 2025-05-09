@@ -24,7 +24,7 @@
     "requestFont": "Poppins-Regular",
     "fontURL": null,
     "supportedLayouts": [
-      { "name": "Vanilla Colemak", "id": 1, "status": 20 },
+      { "name": "Colemak (Standard)", "id": 1, "status": 20 },
       { "name": "Colemak-DH", "id": 2, "status": 10 },
       { "name": "Colemak-DHm", "id": 3, "status": 10 }
     ]
