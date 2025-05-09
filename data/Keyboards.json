@@ -4324,7 +4324,7 @@
     "properties": {
       "direction": "ltr",
       "dynamicShifting": false,
-      "name": "Vanilla Colemak",
+      "name": "Colemak (Standard)",
       "iD": 101,
       "languageFamily": "English",
       "supportConverter": false,
