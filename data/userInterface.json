@@ -10980,5 +10980,3103 @@
         }
       ]
     }
+  },"102": {
+    "DrillUI": {
+      "wordFramMargins": "0px",
+      "wordFramPaddings": "0px",
+      "lineHeight": "0.06em",
+      "keyFontSize_Lg": 28,
+      "keyFontSize_XLg": 34,
+      "keyFontSize_Sm": 24,
+      "wordsFontSize_Lg": 36,
+      "wordsFontSize_XLg": 30,
+      "wordsFontSize_Sm": 25,
+      "sentenceFontSize_Lg": 26,
+      "sentenceFontSize_XLg": 30,
+      "sentenceFontSize_Sm": 22,
+      "paragraphFontSize_Lg": 26,
+      "paragraphFontSize_XLg": 30,
+      "paragraphFontSize_Sm": 22,
+      "pageFontSize_Lg": 26,
+      "pageFontSize_XLg": 32,
+      "pageFontSize_Sm": 20
+    },
+    "HomeTab": {
+      "categories": [
+        {
+          "name": "Build Your Foundation Step-by-Step",
+          "categoryID": "Chapter-1"
+        }
+      ],
+      "chapters": [
+        {
+          "categoryID": "Chapter-1",
+          "chapters": [
+            {
+              "title": "Base Version",
+              "certificateRequirement": true,
+              "description": "Practice typing all lowercase letters without using the Shift key to build confidence and get familiar with essential keys. This is the best starting point for beginners or those just learning typing skills, helping to improve speed and accuracy.",
+              "iconUnicode": "&#xe84a;",
+              "chapterId": 1,
+              "descriptionTitle": "Chapter 1: "
+            },
+            {
+              "title": "Shift Version",
+              "certificateRequirement": true,
+              "description": "Move on to typing uppercase letters using the Shift key to enhance accuracy and speed. This is a great next step after completing Chapter 1, where you’ll learn proper Shift key usage with confidence, an essential skill for mastering complete and efficient typing.",
+              "iconUnicode": "&#xe84b;",
+              "chapterId": 2,
+              "descriptionTitle": "Chapter 2: "
+            },
+            {
+              "title": "Numbers Course",
+              "certificateRequirement": true,
+              "description": "You'll gain proficiency in typing the entire number row. Completing this chapter, along with Chapters 1 and 2, is required for your typing certificate. Mastering the number row boosts efficiency and accuracy in data entry.",
+              "iconUnicode": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"60\" height=\"60\" viewBox=\"0 0 24 24\"><g fill=\"none\" stroke=\"currentColor\" strokeLinecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.35\"><path d=\"m4 15l3 3l3-3M7 6v12M17 3a2 2 0 0 1 2 2v3a2 2 0 1 1-4 0V5a2 2 0 0 1 2-2m-2 13a2 2 0 1 0 4 0a2 2 0 1 0-4 0\"/><path d=\"M19 16v3a2 2 0 0 1-2 2h-1.5\"/></g></svg>",
+              "chapterId": 3,
+              "descriptionTitle": "Chapter 3: "
+            },
+            {
+              "title": "Special Symbols",
+              "certificateRequirement": true,
+              "description": "You'll gain proficiency by learning and practicing the special symbol keys on the keyboard, which are essential for typing accuracy. This chapter is required for your typing certificate, ensuring mastery of all essential skills.",
+              "iconUnicode": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"60\" height=\"60\" viewBox=\"0 0 16 16\"><path fill=\"currentColor\" d=\"M4.5 2a.5.5 0 0 1 .5.5V4h1.5a.5.5 0 0 1 0 1H5v1.5a.5.5 0 0 1-1 0V5H2.5a.5.5 0 0 1 0-1H4V2.5a.5.5 0 0 1 .5-.5m5 2a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1zm-4.293 7.5l1.647-1.646a.5.5 0 1 0-.708-.708L4.5 10.793L2.854 9.146a.5.5 0 1 0-.708.708L3.793 11.5l-1.647 1.646a.5.5 0 0 0 .708.708L4.5 12.207l1.646 1.647a.5.5 0 0 0 .708-.708zM11.5 10a1 1 0 1 0 0-2a1 1 0 0 0 0 2m-2 .5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1zm3 2.5a1 1 0 1 1-2 0a1 1 0 0 1 2 0\"/></svg>",
+              "chapterId": 4,
+              "descriptionTitle": "Chapter 4: "
+            }
+          ]
+        }
+      ],
+      "exTitles": [
+        {
+          "chapterID": 1,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": [
+                {
+                  "key": "a",
+                  "size": "24px",
+                  "m": "6px 4px 17px 4px"
+                },
+                {
+                  "key": "r",
+                  "size": "24px",
+                  "m": "7px 4px 16px 4px"
+                },
+                {
+                  "key": "s",
+                  "size": "24px",
+                  "m": "-4px 5px 6px 4px"
+                },
+                {
+                  "key": "t",
+                  "size": "22px",
+                  "m": "-1px 4px 4px 4px"
+                },
+                {
+                  "key": "n",
+                  "size": "24px",
+                  "m": "1px 4px 13px 4px"
+                },
+                {
+                  "key": "e",
+                  "size": "24px",
+                  "m": "-2px 4px 8px 4px"
+                },
+                {
+                  "key": "i",
+                  "size": "24px",
+                  "m": "1px 4px 9px 4px"
+                },
+                {
+                  "key": "o",
+                  "size": "24px",
+                  "m": "5px 4px 17px 4px"
+                }
+              ],
+              "Extras": "( The Main Row )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": [
+                {
+                  "key": "d",
+                  "size": "24px",
+                  "m": "13px 6px 20px 4px"
+                },
+                {
+                  "key": "h",
+                  "size": "24px",
+                  "m": "4px 2px 11px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 3",
+              "keys": [
+                {
+                  "key": "p",
+                  "size": "22px",
+                  "m": "4px 4px 15px 4px"
+                },
+                {
+                  "key": "g",
+                  "size": "22px",
+                  "m": "-4px 5px 8px 4px"
+                },
+                {
+                  "key": "j",
+                  "size": "22px",
+                  "m": "-3px 4px 5px 4px"
+                },
+                {
+                  "key": "l",
+                  "size": "24px",
+                  "m": "9px 4px 14px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 4",
+              "keys": [
+                {
+                  "key": "c",
+                  "size": "24px",
+                  "m": "0px 4px 11px 4px"
+                },
+                {
+                  "key": "v",
+                  "size": "24px",
+                  "m": "4px 4px 13px 4px"
+                },
+                {
+                  "key": "b",
+                  "size": "24px",
+                  "m": "7px 4px 14px 4px"
+                },
+                {
+                  "key": "k",
+                  "size": "24px",
+                  "m": "12px 4px 18px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 5",
+              "keys": [
+                {
+                  "key": "w",
+                  "size": "24px",
+                  "m": "5px 4px 16px 4px"
+                },
+                {
+                  "key": "f",
+                  "size": "24px",
+                  "m": "9px 6px 14px 4px"
+                },
+                {
+                  "key": "u",
+                  "size": "24px",
+                  "m": "4px 4px 15px 4px"
+                },
+                {
+                  "key": "y",
+                  "size": "24px",
+                  "m": "15px 4px 31px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 6",
+              "keys": [
+                {
+                  "key": "q",
+                  "size": "24px",
+                  "m": "-6px 6px 10px 4px"
+                },
+                {
+                  "key": "z",
+                  "size": "24px",
+                  "m": "-3px 4px 7px 4px"
+                },
+                {
+                  "key": "x",
+                  "size": "24px",
+                  "m": "-1px 4px 11px 4px"
+                },
+                {
+                  "key": "m",
+                  "size": "24px",
+                  "m": "0px 4px 11px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 7",
+              "keys": [
+                {
+                  "key": ",",
+                  "size": "38px",
+                  "m": "-20px 0px 26px 4px"
+                },
+                {
+                  "key": ".",
+                  "size": "40px",
+                  "m": "4px 4px 48px 4px"
+                },
+                {
+                  "key": "/",
+                  "size": "28px",
+                  "m": "4px 4px 20px 4px"
+                },
+                {
+                  "key": "'",
+                  "size": "38px",
+                  "m": "4px 4px 25px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 8",
+              "keys": [
+                {
+                  "key": ";",
+                  "size": "28px",
+                  "m": "4px 4px 22px 4px"
+                },
+                {
+                  "key": "[",
+                  "size": "22px",
+                  "m": "4px 4px 9px 4px"
+                },
+                {
+                  "key": "]",
+                  "size": "24px",
+                  "m": "4px 4px 12px 4px"
+                },
+                {
+                  "key": "\\",
+                  "size": "26px",
+                  "m": "4px 4px 15px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            }
+          ]
+        },
+        {
+          "chapterID": 2,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": [
+                {
+                  "key": "A",
+                  "size": "20px",
+                  "m": "11px 4px 14px 4px"
+                },
+                {
+                  "key": "R",
+                  "size": "20px",
+                  "m": "8px 4px 11px 4px"
+                },
+                {
+                  "key": "S",
+                  "size": "20px",
+                  "m": "10px 4px 11px 4px"
+                },
+                {
+                  "key": "T",
+                  "size": "20px",
+                  "m": "11px 4px 10px 4px"
+                },
+                {
+                  "key": "N",
+                  "size": "20px",
+                  "m": "11px 4px 12px 4px"
+                },
+                {
+                  "key": "E",
+                  "size": "20px",
+                  "m": "9px 4px 10px 4px"
+                },
+                {
+                  "key": "I",
+                  "size": "20px",
+                  "m": "9px 4px 10px 4px"
+                },
+                {
+                  "key": "O",
+                  "size": "20px",
+                  "m": "21px 4px 23px 4px"
+                }
+              ],
+              "Extras": "( The Main Row )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": [
+                {
+                  "key": "D",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "H",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 3",
+              "keys": [
+                {
+                  "key": "P",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "G",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "J",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "L",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 4",
+              "keys": [
+                {
+                  "key": "C",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "V",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "B",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "K",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 5",
+              "keys": [
+                {
+                  "key": "W",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "F",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "U",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "Y",
+                  "size": "28px",
+                  "m": "4px 4px 17px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 6",
+              "keys": [
+                {
+                  "key": "Q",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "Z",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "X",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "M",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 7",
+              "keys": [
+                {
+                  "key": "<",
+                  "size": "30px",
+                  "m": "4px 4px 22px 4px"
+                },
+                {
+                  "key": "\"",
+                  "size": "28px",
+                  "m": "4px 4px 16px 4px"
+                },
+                {
+                  "key": ">",
+                  "size": "30px",
+                  "m": "4px 4px 23px 4px"
+                },
+                {
+                  "key": "?",
+                  "size": "28px",
+                  "m": "4px 4px 16px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 8",
+              "keys": [
+                {
+                  "key": ":",
+                  "size": "28px",
+                  "m": "-2px 7px 12px 4px"
+                },
+                {
+                  "key": "{",
+                  "size": "24px",
+                  "m": "4px 7px 13px 4px"
+                },
+                {
+                  "key": "}",
+                  "size": "24px",
+                  "m": "4px 4px 14px 4px"
+                },
+                {
+                  "key": "|",
+                  "size": "24px",
+                  "m": "4px 4px 14px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            }
+          ]
+        },
+        {
+          "chapterID": 3,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": ["3", "4", "7", "8"],
+              "Extras": "( The Number Row )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": ["2", "9"],
+              "Extras": ""
+            },
+            {
+              "name": "Exercise 3",
+              "keys": ["1", "0"],
+              "Extras": ""
+            },
+            {
+              "name": "Exercise 4",
+              "keys": ["5", "6"],
+              "Extras": ""
+            }
+          ]
+        },
+        {
+          "chapterID": 4,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": [
+                {
+                  "key": "#",
+                  "size": "24px",
+                  "m": "4px 4px 12px 4px"
+                },
+                {
+                  "key": "$",
+                  "size": "24px",
+                  "m": "4px 4px 11px 4px"
+                },
+                {
+                  "key": "&",
+                  "size": "24px",
+                  "m": "4px 4px 9px 4px"
+                },
+                {
+                  "key": "*",
+                  "size": "24px",
+                  "m": "4px 4px 6px 4px"
+                }
+              ],
+              "Extras": "( Special Symbols )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": [
+                {
+                  "key": "!",
+                  "size": "26px",
+                  "m": "4px 4px 12px 4px"
+                },
+                {
+                  "key": "@",
+                  "size": "26px",
+                  "m": "4px 4px 13px 4px"
+                },
+                {
+                  "key": "(",
+                  "size": "22px",
+                  "m": "4px 5px 11px 4px"
+                },
+                {
+                  "key": ")",
+                  "size": "24px",
+                  "m": "4px 1px 14px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 3",
+              "keys": [
+                {
+                  "key": "~",
+                  "size": "30px",
+                  "m": "4px 4px 21px 4px"
+                },
+                {
+                  "key": "%",
+                  "size": "26px",
+                  "m": "4px 4px 13px 4px"
+                },
+                {
+                  "key": "^",
+                  "size": "30px",
+                  "m": "4px 4px 23px 4px"
+                },
+                {
+                  "key": "_",
+                  "size": "34px",
+                  "m": "4px 4px 36px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            },
+            {
+              "name": "Exercise 4",
+              "keys": [
+                {
+                  "key": "`",
+                  "size": "40px",
+                  "m": "4px 4px 28px 4px"
+                },
+                {
+                  "key": "-",
+                  "size": "28px",
+                  "m": "4px 4px 16px 4px"
+                },
+                {
+                  "key": "=",
+                  "size": "30px",
+                  "m": "4px 4px 21px 4px"
+                },
+                {
+                  "key": "+",
+                  "size": "28px",
+                  "m": "4px 4px 15px 4px"
+                }
+              ],
+              "Extras": "No Extra Info"
+            }
+          ]
+        },
+        {
+          "chapterID": "6",
+          "ExercisesTitles": []
+        }
+      ],
+      "exercises": [
+        {
+          "chapterID": 1,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ a, r, s, t, n, e, i, o ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "16",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "30",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.1-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": "40",
+                    "minStars": "2",
+                    "netSpeed": "8",
+                    "maxNetSpeed": "12"
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.1-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "18",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "30",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.1-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": "50",
+                    "minStars": 3,
+                    "maxNetSpeed": "16",
+                    "netSpeed": "12"
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ Home row + d, h ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.2-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "18",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "30",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.2-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3,
+                    "maxNetSpeed": "12",
+                    "netSpeed": "8"
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.2-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "18",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "30",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.2-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + p, g, j, l ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.3-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "20",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "32",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.3-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.3-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "20",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "32",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.3-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + c, v, b, k ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.4-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": "20",
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "32",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.4-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.4-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.4-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "score": 40,
+                    "minStars": 3,
+                    "maxNetSpeed": "35",
+                    "netSpeed": "22"
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.4-5",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 5",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + w, f, u, y]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.5-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "35",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.5-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.5-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "35",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.5-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.5-5",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 6",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + q, z, x, m ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.6-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "35",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.6-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.6-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "35",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.6-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": "35",
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.6-5",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 7",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + comma, dot, /, ' ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.7-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.7-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.7-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.7-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.7-5",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 8",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + [, ],  ;, \\  ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "1.8-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Key Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.8-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.8-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Words Challenge: (Safe Drive",
+                  "description": "Hone word skills, master all keys with precision, even the tough ones.",
+                  "serialNo": "1.8-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Make your typing more strong by writing paragraphs.",
+                  "serialNo": "1.8-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 22,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.8-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterID": 2,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ A, R, S, T, N, E, I, O ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.1-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Words Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.1-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.1-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "2.1-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Words Challenge: (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.1-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ Home row + D, H ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.2-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.2-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Words Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.2-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.2-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a comlete paragraph for extra practice.",
+                  "serialNo": "2.2-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Play Game (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.2-6",
+                  "index": 59,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + P, G, J, L ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.3-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.3-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.3-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.3-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "2.3-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Play Game (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.3-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + C, V, B, K ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.4-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.4-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.4-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.4-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "2.4-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Play Game (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.4-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 5",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + W, F U, Y ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.5-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.5-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.5-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.5-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "2.5-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Play Game (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.5-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 6",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + Q, Z, X, M ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.6-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.6-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.6-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 85,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.6-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "2.6-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Play Game (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.6-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 7",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + <, \", >, ? ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.7-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.7-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.7-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.7-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "2.7-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Play Game (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.7-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 8",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ . . . + {, }, |, \" ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "2.8-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.8-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.8-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Words Challenge: (Safe Drive)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.8-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.8-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "2.8-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterID": 3,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 3, 4 and 7, 8 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.1-2",
+                  "index": 97,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.1-3",
+                  "index": 98,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.1-4",
+                  "index": 99,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.1-5",
+                  "index": 100,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Words Challenge: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.1-6",
+                  "index": 101,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 2, 3, 4 and 7, 8, 9 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.2-1",
+                  "index": 102,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.2-2",
+                  "index": 103,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.2-3",
+                  "index": 104,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.2-4",
+                  "index": 105,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.2-5",
+                  "index": 106,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.2-6",
+                  "index": 107,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 1,2,3,4 and 7, 8, 9, 0 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.3-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.3-2",
+                  "index": 109,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.3-3",
+                  "index": 110,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.3-4",
+                  "index": 111,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.3-5",
+                  "index": 112,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.3-6",
+                  "index": 113,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 1,2,3,4,5 and 6,7,8,9,0 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.4-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.3-2",
+                  "index": 115,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 86,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.4-3",
+                  "index": 116,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.4-4",
+                  "index": 117,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.4-5",
+                  "index": 118,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.4-6",
+                  "index": 119,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterID": 4,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ #, $ and &, * ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "4.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "4.1-2",
+                  "index": 121,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "4.1-3",
+                  "index": 122,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "4.1-4",
+                  "index": 123,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "4.1-5",
+                  "index": 124,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Words Challenge: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "4.1-6",
+                  "index": 125,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 66,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ ... and !, @, (, ) ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "4.2-1",
+                  "index": 126,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "4.2-2",
+                  "index": 127,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "4.2-3",
+                  "index": 128,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "4.2-4",
+                  "index": 129,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "4.2-5",
+                  "index": 130,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "4.2-6",
+                  "index": 131,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ ... and ~, %, ^, _ ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "4.3-1",
+                  "index": 132,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "4.3-2",
+                  "index": 133,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "4.3-3",
+                  "index": 134,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "4.3-4",
+                  "index": 135,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "4.3-5",
+                  "index": 136,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "4.3-6",
+                  "index": 137,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ ... and `, -, =, + ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "4.4-1",
+                  "index": 138,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "4.3-2",
+                  "index": 139,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "4.4-3",
+                  "index": 140,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "4.4-4",
+                  "index": 141,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "4.4-5",
+                  "index": 142,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 25,
+                    "accuracy": 85,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "4.4-6",
+                  "index": 143,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterID": "6",
+          "chapterLessons": []
+        }
+      ]
+    },
+    "GamesTab": {
+      "titles": {
+        "WordTitles": [
+          {
+            "title": "Animal Names",
+            "serialNumber": "10.1-1",
+            "exName": "Exercise 1: "
+          },
+          {
+            "title": "Birds Names",
+            "serialNumber": "10.1-2",
+            "exName": "Exercise 2: "
+          },
+          {
+            "title": "Planet Names",
+            "serialNumber": "10.1-3",
+            "exName": "Exercise 3: "
+          },
+          {
+            "title": "Common Words",
+            "serialNumber": "10.1-4",
+            "exName": "Exercise 4: "
+          },
+          {
+            "title": "Years (1900 -> 2024)",
+            "serialNumber": "10.1-5",
+            "exName": "Exercise 5: "
+          },
+          {
+            "title": "Special Symbols",
+            "serialNumber": "10.1-6",
+            "exName": "Exercise 6: "
+          }
+        ],
+        "KeysTitles": [
+          {
+            "title": "Base Version (a -> z)",
+            "serialNumber": "10.2-1",
+            "exName": "Exercise 1: "
+          },
+          {
+            "title": "Shift Version (A -> Z)",
+            "serialNumber": "10.2-2",
+            "exName": "Exercise 2: "
+          },
+          {
+            "title": "Mix (a -> z) & (A -> Z)",
+            "serialNumber": "10.2-3",
+            "exName": "Exercise 3: "
+          },
+          {
+            "title": "Numbers (0 -> 9)",
+            "serialNumber": "10.2-4",
+            "exName": "Exercise 4: "
+          },
+          {
+            "title": "All Special Symbols",
+            "serialNumber": "10.2-5",
+            "exName": "Exercise 5: "
+          },
+          {
+            "title": "Complete Keyboard",
+            "serialNumber": "10.2-6",
+            "exName": "Exercise 6: "
+          }
+        ]
+      },
+      "GameResults": {
+        "safeDrive": [
+          {
+            "accountName": "Asif Jalal",
+            "date": "20-Oct-2024",
+            "score": "200",
+            "time": "04:00 PM"
+          },
+          {
+            "accountName": "Zubair6573",
+            "date": "12-Sep-2024",
+            "score": "400",
+            "time": "10:30 AM"
+          },
+          {
+            "accountName": "Sara Khan",
+            "date": "08-Nov-2024",
+            "score": "450",
+            "time": "03:15 PM"
+          },
+          {
+            "accountName": "Ahmed Ali",
+            "date": "05-Aug-2024",
+            "score": "390",
+            "time": "02:45 PM"
+          },
+          {
+            "accountName": "Nadia Shah",
+            "date": "16-Dec-2023",
+            "score": "275",
+            "time": "09:10 AM"
+          },
+          {
+            "accountName": "Bilal Akram",
+            "date": "22-Jul-2024",
+            "score": "180",
+            "time": "11:50 AM"
+          },
+          {
+            "accountName": "Fatima Noor",
+            "date": "14-Jan-2024",
+            "score": "430",
+            "time": "05:20 PM"
+          },
+          {
+            "accountName": "Hassan Raza",
+            "date": "01-Feb-2024",
+            "score": "310",
+            "time": "07:45 PM"
+          },
+          {
+            "accountName": "Ali Zain",
+            "date": "30-Mar-2024",
+            "score": "260",
+            "time": "06:35 PM"
+          },
+          {
+            "accountName": "Mariam Rafi",
+            "date": "17-Apr-2024",
+            "score": "290",
+            "time": "08:55 AM"
+          }
+        ],
+        "cityDefender": [
+          {
+            "accountName": "Asif Jalal",
+            "date": "20-Oct-2024",
+            "score": "200",
+            "time": "04:00 PM"
+          },
+          {
+            "accountName": "Zubair6573",
+            "date": "12-Sep-2024",
+            "score": "320",
+            "time": "10:30 AM"
+          },
+          {
+            "accountName": "Sara Khan",
+            "date": "08-Nov-2024",
+            "score": "450",
+            "time": "03:15 PM"
+          },
+          {
+            "accountName": "Ahmed Ali",
+            "date": "05-Aug-2024",
+            "score": "390",
+            "time": "02:45 PM"
+          },
+          {
+            "accountName": "Nadia Shah",
+            "date": "16-Dec-2023",
+            "score": "275",
+            "time": "09:10 AM"
+          },
+          {
+            "accountName": "Bilal Akram",
+            "date": "22-Jul-2024",
+            "score": "180",
+            "time": "11:50 AM"
+          },
+          {
+            "accountName": "Fatima Noor",
+            "date": "14-Jan-2024",
+            "score": "430",
+            "time": "05:20 PM"
+          },
+          {
+            "accountName": "Hassan Raza",
+            "date": "01-Feb-2024",
+            "score": "310",
+            "time": "07:45 PM"
+          },
+          {
+            "accountName": "Ali Zain",
+            "date": "30-Mar-2024",
+            "score": "260",
+            "time": "06:35 PM"
+          },
+          {
+            "accountName": "Mariam Rafi",
+            "date": "17-Apr-2024",
+            "score": "290",
+            "time": "08:55 AM"
+          }
+        ]
+      }
+    },
+    "TypingTest": {
+      "chapter": {},
+      "chapterNo": 5,
+      "chapterName": "Typing Test",
+      "exTitles": [
+        {
+          "chapterID": 5,
+          "ExercisesTitles": [
+            {
+              "name": "Test 1",
+              "Extras": "[ Touch Typing Challenge ]"
+            },
+            {
+              "name": "Test 2",
+              "Extras": "[ Ultimate Typing Fusion ]"
+            },
+            {
+              "name": "Test 3",
+              "Extras": "( Personalized Typing Test )"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "chapterID": 5,
+          "chapterLessons": [
+            {
+              "name": "Test 1",
+              "lessons": [
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Application Challenge ",
+                  "description": "Test your typing speed and accuracy by writing application.",
+                  "serialNo": "5.1-1",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Essay Writing Challenge",
+                  "description": "Evaluate your typing speed and accuracy through essay writing. ",
+                  "serialNo": "5.1-2",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Short Story Challenge",
+                  "description": "Test your typing speed and accuracy through (Thristy Crow) ",
+                  "serialNo": "5.1-3",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Complaint letter",
+                  "description": "Evaluate your typing speed and accuracy through complaint letter",
+                  "serialNo": "5.1-4",
+                  "index": 3,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Test 2",
+              "lessons": [
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Letter to Father",
+                  "description": "Let us check how much you take to write a simple letter.",
+                  "serialNo": "5.2-1",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Letter to mother (Challenge)",
+                  "description": "Let us check how much you take to write a simple letter.",
+                  "serialNo": "5.2-2",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Application for Clerk's Post",
+                  "description": "Quickly write an application for the post of a clerk.",
+                  "serialNo": "5.2-3",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Application for teacher's post",
+                  "description": "Let us check how much you take to write this application",
+                  "serialNo": "5.2-4",
+                  "index": 3,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Test 3",
+              "lessons": [
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Application",
+                  "description": "Upload and practice typing with your own custom application file to enhance speed and accuracy.",
+                  "serialNo": "5.3-1",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Essay",
+                  "description": "Practice typing using a custom essay file to evaluate your typing speed and precision.",
+                  "serialNo": "5.3-2",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Short Story",
+                  "description": "Improve typing skills by uploading a short story of your choice and practicing it.",
+                  "serialNo": "5.3-3",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Letter",
+                  "description": "Enhance typing accuracy by practicing with a custom complaint letter or any file you upload.",
+                  "serialNo": "5.3-4",
+                  "index": 3,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   }
 }
