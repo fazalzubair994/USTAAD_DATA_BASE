@@ -96,6 +96,24 @@ app.get("/api/getData", (req, res) => {
   }
 });
 
+app.post("/api/trackVisit", (req, res) => {
+  try {
+    const { siteName, siteUrl } = req.body;
+
+    // Get user-related info from request
+
+    console.log("----- New Site Visit Tracked -----");
+    console.log("Site Name:", siteName);
+    console.log("Site URL:", siteUrl);
+    console.log("----------------------------------");
+
+    res.status(200).send("Visit tracked successfully.");
+  } catch (err) {
+    console.error("Error tracking visit:", err);
+    res.status(500).send("Failed to track visit.");
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
