@@ -1,42 +1,1481 @@
 [
-  {
-    "hmid": "32b82e3d0e543bee3094bfa4cb5fc191436e3c54bfe4a2bbda5",
-    "processorID": "BFEBFBFF0001067A",
-    "systemInfo": {
-      "processorId": "BFEBFBFF0001067A",
-      "motherboardSerial": "2UA81905Y7",
-      "biosSerial": "2UA81905Y7",
-      "userName": "fazal",
-      "totalMemory": 4210343936,
-      "freeMemory": 1524887552,
-      "platform": "win32",
-      "arch": "x64",
-      "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz",
-      "cpuCores": 2
+    {
+      "hmid": "32b82e3d0e543bee3094bfa4cb5fc191436e3c54bfe4a2bbda5",
+      "processorID": "BFEBFBFF0001067A",
+      "systemInfo": {
+        "processorId": "BFEBFBFF0001067A",
+        "motherboardSerial": "2UA81905Y7",
+        "biosSerial": "2UA81905Y7",
+        "userName": "fazal",
+        "totalMemory": 4210343936,
+        "freeMemory": 1524887552,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™2 Duo E8500",
+        "processorCores": 2,
+        "processorSpeed": "3.16 GHz",
+        "cpuFlags": "de mce apic sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "0AA8h",
+        "motherboardSerial": "2UA81905Y7",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "786F1 v01.35",
+        "biosSerial": "2UA81905Y7",
+        "totalMemory": "4.21 GB",
+        "freeMemory": "1.52 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-02-04T14:43:19.795Z",
+        "expiryDate": "2025-02-07T14:43:19.795Z",
+        "mode": 1,
+        "days": 3
+      }
     },
-    "moreInfo": {
-      "processorModel": "Intel Core™2 Duo E8500",
-      "processorCores": 2,
-      "processorSpeed": "3.16 GHz",
-      "cpuFlags": "de mce apic sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
-      "motherboardManufacturer": "Hewlett-Packard",
-      "motherboardModel": "0AA8h",
-      "motherboardSerial": "2UA81905Y7",
-      "biosVendor": "Hewlett-Packard",
-      "biosVersion": "786F1 v01.35",
-      "biosSerial": "2UA81905Y7",
-      "totalMemory": "4.21 GB",
-      "freeMemory": "1.52 GB",
-      "osPlatform": "Windows",
-      "osDistro": "Microsoft Windows 10 Pro",
-      "osRelease": "10.0.19045",
-      "osArch": "x64"
+    {
+      "hmid": "d745e5c140d4b32b82e3d0e543bee3094bfa4cb5fc191436e3c54bfe4a2bbda5",
+      "processorID": "BFEBFBFF0001067A",
+      "systemInfo": {
+        "processorId": "BFEBFBFF0001067A",
+        "motherboardSerial": "2UA81905Y7",
+        "biosSerial": "2UA81905Y7",
+        "userName": "fazal",
+        "totalMemory": 4210343936,
+        "freeMemory": 405065728,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E8500  @ 3.16GHz",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™2 Duo E8500",
+        "processorCores": 2,
+        "processorSpeed": "3.16 GHz",
+        "cpuFlags": "de mce apic sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "0AA8h",
+        "motherboardSerial": "2UA81905Y7",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "786F1 v01.35",
+        "biosSerial": "2UA81905Y7",
+        "totalMemory": "4.21 GB",
+        "freeMemory": "0.40 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-04-16T10:14:24.643Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 3
+      }
     },
-    "appMode": {
-      "startDate": "2025-02-04T14:43:19.795Z",
-      "expiryDate": "2025-02-07T14:43:19.795Z",
-      "mode": 1,
-      "days": 3
+    {
+      "hmid": "7b9cc0e9d795c89e0e928bb370ef0602da6af9213053e859d97e4457849d92f0",
+      "processorID": "178BFBFF00660F51",
+      "systemInfo": {
+        "processorId": "178BFBFF00660F51",
+        "motherboardSerial": "PGHRL00WB7103D",
+        "biosSerial": "5CG720454Z",
+        "userName": "Haz",
+        "totalMemory": 7980105728,
+        "freeMemory": 1398726656,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "AMD PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G     ",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": "AMD PRO A6-8530B R5, 6 COMPUTE CORES 2C+4G",
+        "processorCores": 2,
+        "processorSpeed": "2.3 GHz",
+        "cpuFlags": "de pse tsc msr sep mtrr mca cmov psn clfsh ds mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "HP",
+        "motherboardModel": "823A",
+        "motherboardSerial": "PGHRL00WB7103D",
+        "biosVendor": "HP",
+        "biosVersion": "P82 Ver. 01.05",
+        "biosSerial": "5CG720454Z",
+        "totalMemory": "7.98 GB",
+        "freeMemory": "1.44 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro Education",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-17T11:53:15.092Z",
+        "expiryDate": "2025-05-29T11:53:15.092Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "5ac320bd435e27fc553022010be6affc8a2c1d62a2f797abb155c99bed575e93",
+      "processorID": "178BFBFF00810F81",
+      "systemInfo": {
+        "processorId": "178BFBFF00810F81",
+        "motherboardSerial": "PF1ZMNWB",
+        "biosSerial": "PF1ZMNWB",
+        "userName": "THIS PC",
+        "totalMemory": 10607665152,
+        "freeMemory": 3636125696,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  ",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx",
+        "processorCores": 4,
+        "processorSpeed": "2.6 GHz",
+        "cpuFlags": "de pse tsc msr sep mtrr mca cmov psn clfsh ds mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "LENOVO",
+        "motherboardModel": "LNVNB161216",
+        "motherboardSerial": "PF1ZMNWB",
+        "biosVendor": "LENOVO",
+        "biosVersion": "ARCN37WW",
+        "biosSerial": "PF1ZMNWB",
+        "totalMemory": "10.61 GB",
+        "freeMemory": "3.62 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 11 Home",
+        "osRelease": "10.0.26100",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-18T17:23:37.819Z",
+        "expiryDate": "2025-05-30T17:23:37.819Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "4459163b7e206ab119c049dee78f1379ed5c29a764d303272afefef67934608b",
+      "processorID": "BFEBFBFF000406C4",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000406C4",
+        "motherboardSerial": "PFXPPG31V39XVU",
+        "biosSerial": "CND6336V9R",
+        "userName": "BEST IN ACTION",
+        "totalMemory": 4129611776,
+        "freeMemory": 1648201728,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Pentium(R) CPU  N3710  @ 1.60GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Pentium® N3710",
+        "processorCores": 4,
+        "processorSpeed": "1.6 GHz",
+        "cpuFlags": "de tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "HP",
+        "motherboardModel": "81F1",
+        "motherboardSerial": "PFXPPG31V39XVU",
+        "biosVendor": "Insyde",
+        "biosVersion": "F.09",
+        "biosSerial": "CND6336V9R",
+        "totalMemory": "4.13 GB",
+        "freeMemory": "1.56 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19041",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-04-22T13:56:57.213Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 3
+      }
+    },
+    {
+      "hmid": "46442c8e29e20e9d6b802239d3264f0ffafca32665fe189db5f49f67c8d092a2",
+      "processorID": "BFEBFBFF000806EC",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000806EC",
+        "motherboardSerial": "NBHNA110029490CE287600",
+        "biosSerial": "NXHNEAA0019490CE287600",
+        "userName": "smc",
+        "totalMemory": 21178011648,
+        "freeMemory": 13368131584,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz",
+        "cpuCores": 8
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-10210U",
+        "processorCores": 8,
+        "processorSpeed": "1.6 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "CML",
+        "motherboardModel": "Doc_WC",
+        "motherboardSerial": "NBHNA110029490CE287600",
+        "biosVendor": "Insyde Corp.",
+        "biosVersion": "V1.12",
+        "biosSerial": "NXHNEAA0019490CE287600",
+        "totalMemory": "21.18 GB",
+        "freeMemory": "12.83 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Home",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-19T12:30:58.961Z",
+        "expiryDate": "2025-05-31T12:30:58.961Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "2e45ed1b98770831fdd1507b40d4dd4df2b7c3f80b938e901718e7a2d58514a3",
+      "processorID": "BFEBFBFF000406E3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000406E3",
+        "motherboardSerial": "/4Y0B1N2/CN1296383I0677/",
+        "biosSerial": "4Y0B1N2",
+        "userName": "Dell",
+        "totalMemory": 8468955136,
+        "freeMemory": 3973005312,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-6300U",
+        "processorCores": 4,
+        "processorSpeed": "2.4 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Dell Inc.",
+        "motherboardModel": "00F6D3",
+        "motherboardSerial": "/4Y0B1N2/CN1296383I0677/",
+        "biosVendor": "Dell Inc.",
+        "biosVersion": "1.9.3",
+        "biosSerial": "4Y0B1N2",
+        "totalMemory": "8.47 GB",
+        "freeMemory": "3.96 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-19T14:02:13.802Z",
+        "expiryDate": "2025-05-31T14:02:13.802Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "ec65fc1ce73964fedbe336a92156987691bb12bf093974db10d29bb2a7444894",
+      "processorID": "178BFBFF00860F01",
+      "systemInfo": {
+        "processorId": "178BFBFF00860F01",
+        "motherboardSerial": "M416NRCX00D44BMB",
+        "biosSerial": "M4NRCX04U284169",
+        "userName": "MamiMustiSaydam1903",
+        "totalMemory": 7966720000,
+        "freeMemory": 684855296,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "AMD Ryzen 7 4800H with Radeon Graphics         ",
+        "cpuCores": 16
+      },
+      "moreInfo": {
+        "processorModel": "AMD Ryzen 7 4800H with Radeon Graphics",
+        "processorCores": 16,
+        "processorSpeed": "2.9 GHz",
+        "cpuFlags": "de pse tsc sep mtrr mca cmov psn clfsh ds mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "ASUSTeK COMPUTER INC.",
+        "motherboardModel": "FA506IU",
+        "motherboardSerial": "M416NRCX00D44BMB",
+        "biosVendor": "American Megatrends Inc.",
+        "biosVersion": "FA506IU.320",
+        "biosSerial": "M4NRCX04U284169",
+        "totalMemory": "7.97 GB",
+        "freeMemory": "0.73 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 11 Home Single Language",
+        "osRelease": "10.0.26120",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-20T07:47:42.032Z",
+        "expiryDate": "2025-06-01T07:47:42.032Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "a66af2d11c41f7b385ab1cd90b38359c8bd7dcbcee0fbb032e6c8d632fca8e96",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4280CKB",
+        "biosSerial": "CZC4280CKB",
+        "userName": "pc",
+        "totalMemory": 4202217472,
+        "freeMemory": 997253120,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4280CKB",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.21",
+        "biosSerial": "CZC4280CKB",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "0.75 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-20T10:15:29.630Z",
+        "expiryDate": "2025-06-01T10:15:29.630Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "c42520152b3ed5a3fe4eb488befa19ecac4598df6d31a60b209218cb926d6c10",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4200QZN",
+        "biosSerial": "CZC4200QZN",
+        "userName": "PC",
+        "totalMemory": 4202217472,
+        "freeMemory": 1638395904,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4590",
+        "processorCores": 4,
+        "processorSpeed": "3.3 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4200QZN",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.21",
+        "biosSerial": "CZC4200QZN",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.65 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-20T10:22:37.533Z",
+        "expiryDate": "2025-06-01T10:22:37.533Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "46e7138e39c64d03281be6ef248c732a679f2b4abb69a7dfc768e7155bc47f1b",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4280CM5",
+        "biosSerial": "CZC4280CM5",
+        "userName": "PC",
+        "totalMemory": 4202217472,
+        "freeMemory": 1455382528,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4590S",
+        "processorCores": 4,
+        "processorSpeed": "3 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4280CM5",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.21",
+        "biosSerial": "CZC4280CM5",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.45 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-20T10:24:54.862Z",
+        "expiryDate": "2025-06-01T10:24:54.862Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "9654ee6339605d80b7aa30308c324c25f128d0087b37a069cd700bd6dd38c162",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "MXL5452G59",
+        "biosSerial": "MXL5452G59",
+        "userName": "pc",
+        "totalMemory": 4179886080,
+        "freeMemory": 1724182528,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i3-4160",
+        "processorCores": 4,
+        "processorSpeed": "3.6 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "MXL5452G59",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "MXL5452G59",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.73 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-21T09:20:33.462Z",
+        "expiryDate": "2025-06-02T09:20:33.462Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "33a24e4b570ded389bb9983eb42046602d07b8db2c90c3814ec238f73b32e250",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "MXL54022MF",
+        "biosSerial": "MXL54022MF",
+        "userName": "PC",
+        "totalMemory": 4179927040,
+        "freeMemory": 1611685888,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4590",
+        "processorCores": 4,
+        "processorSpeed": "3.3 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "MXL54022MF",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "MXL54022MF",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.60 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-21T09:37:34.432Z",
+        "expiryDate": "2025-06-02T09:37:34.432Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "5cb168e8df16998d082f2f3c18a32827e7d16f7cbcba29398ea8c942e3298020",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "2UA529334S",
+        "biosSerial": "2UA529334S",
+        "userName": "PC",
+        "totalMemory": 4179927040,
+        "freeMemory": 1777836032,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4590",
+        "processorCores": 4,
+        "processorSpeed": "3.3 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "2UA529334S",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "2UA529334S",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.79 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-21T09:42:42.100Z",
+        "expiryDate": "2025-06-02T09:42:42.100Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "2cc66bc1fc20c46d243b8e020e3e4d5222bafc48a64d3fcdb8c57ef317c84399",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4162XCC",
+        "biosSerial": "CZC4162XCC",
+        "userName": "PC",
+        "totalMemory": 4202217472,
+        "freeMemory": 1374539776,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "CZC4162XCC",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.21",
+        "biosSerial": "CZC4162XCC",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.38 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-21T09:44:23.695Z",
+        "expiryDate": "2025-06-02T09:44:23.695Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "429d7c2b904cd4279beb81735d50a432ae6ac7d6c903ee20ede4a7b74843ae48",
+      "processorID": "BFEBFBFF0001067A",
+      "systemInfo": {
+        "processorId": "BFEBFBFF0001067A",
+        "motherboardSerial": "109073500001073",
+        "biosSerial": "WO57199216",
+        "userName": "SOFTWARE-TECH",
+        "totalMemory": 4157919232,
+        "freeMemory": 1424588800,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™2 Duo E8400",
+        "processorCores": 2,
+        "processorSpeed": "3 GHz",
+        "cpuFlags": "de tsc mce apic sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "PEGATRON CORPORATION",
+        "motherboardModel": "IPX41-R3",
+        "motherboardSerial": "109073500001073",
+        "biosVendor": "American Megatrends Inc.",
+        "biosVersion": "1000",
+        "biosSerial": "WO57199216",
+        "totalMemory": "4.16 GB",
+        "freeMemory": "1.45 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-04T11:53:52.715Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "6d6e2a8664ffdee270d1ef843539c256ca3cf7f6ee8a0ab6b42e2bbfe5cbdcfb",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "2UA5352JBY",
+        "biosSerial": "2UA5352JBY",
+        "userName": "PC",
+        "totalMemory": 4179927040,
+        "freeMemory": 1602404352,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "2UA5352JBY",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "2UA5352JBY",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.58 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-22T09:18:31.729Z",
+        "expiryDate": "2025-06-03T09:18:31.729Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "844700d331d12245c0db7f1e46655c6d741a9e540d292f0aceb7246ae27bd6a9",
+      "processorID": "BFEBFBFF000306D4",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306D4",
+        "motherboardSerial": "PGYUQC3WVB173N",
+        "biosSerial": "CND8270KV0",
+        "userName": "Umar Hussain",
+        "totalMemory": 4211781632,
+        "freeMemory": 1619193856,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i3-5005U",
+        "processorCores": 4,
+        "processorSpeed": "2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "HP",
+        "motherboardModel": "8444",
+        "motherboardSerial": "PGYUQC3WVB173N",
+        "biosVendor": "InsydeH2O",
+        "biosVersion": "05.04.43F.40",
+        "biosSerial": "CND8270KV0",
+        "totalMemory": "4.21 GB",
+        "freeMemory": "1.63 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.18363",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-25T04:38:58.618Z",
+        "expiryDate": "2025-06-06T04:38:58.618Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "c0d6bfb83c84ff90a28307b8ad5481c2d63384ffb785943787cc00b89eca6cd6",
+      "processorID": "BFEBFBFF000206A7",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000206A7",
+        "motherboardSerial": "/5N18BT1/CN7590028N00TA/",
+        "biosSerial": "5N18BT1",
+        "userName": "shan",
+        "totalMemory": 3399753728,
+        "freeMemory": 2682589184,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i3-2330M CPU @ 2.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": " ",
+        "processorCores": 4,
+        "processorSpeed": "NaN GHz",
+        "cpuFlags": "fpu de cx8 apic mtrr pge mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "",
+        "motherboardModel": "",
+        "motherboardSerial": "",
+        "biosVendor": "",
+        "biosVersion": "",
+        "biosSerial": "",
+        "totalMemory": "3.40 GB",
+        "freeMemory": "2.65 GB",
+        "osPlatform": "Windows",
+        "osDistro": "",
+        "osRelease": "6.1.7601",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-24T04:30:28.867Z",
+        "expiryDate": "2025-06-05T04:30:28.867Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "b4361b004121387df8979c1c8b891c9bf210775a4211b41dcc5708955a04c230",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "2UA5292DP9",
+        "biosSerial": "2UA5292DP9",
+        "userName": "PC",
+        "totalMemory": 4179927040,
+        "freeMemory": 1271631872,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "2UA5292DP9",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "2UA5292DP9",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.28 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-26T09:21:51.343Z",
+        "expiryDate": "2025-06-07T09:21:51.343Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "29715ac9677337ea777c63cad66664b12ab9d5b52ae7f07eedc9235c4df9d144",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4200R02",
+        "biosSerial": "CZC4200R02",
+        "userName": "PC",
+        "totalMemory": 4202217472,
+        "freeMemory": 1250607104,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4460",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4200R02",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.21",
+        "biosSerial": "CZC4200R02",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.24 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-26T09:27:29.797Z",
+        "expiryDate": "2025-06-07T09:27:29.797Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "71da00f6f44de7c7078f549eb2c96a45a068ccc040d9476b16ccfa6e117060fb",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4523Q17",
+        "biosSerial": "CZC4523Q17",
+        "userName": "PC",
+        "totalMemory": 4196773888,
+        "freeMemory": 1576607744,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4523Q17",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.53",
+        "biosSerial": "CZC4523Q17",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.57 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-26T09:38:04.320Z",
+        "expiryDate": "2025-06-07T09:38:04.320Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "67424d92cc9e72d8f9ad365b11f6e1763e17dfe12678b77006ac5535cceb5057",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4523F46",
+        "biosSerial": "CZC4523F46",
+        "userName": "PC",
+        "totalMemory": 4179947520,
+        "freeMemory": 1112514560,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4523F46",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.68",
+        "biosSerial": "CZC4523F46",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.12 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-26T10:01:57.305Z",
+        "expiryDate": "2025-06-07T10:01:57.305Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "8d0200fdab1d9520842932cc08339fd7b3c64c043619218b1b904c40ad688ad6",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC5101702",
+        "biosSerial": "CZC5101702",
+        "userName": "PC",
+        "totalMemory": 4179947520,
+        "freeMemory": 1644621824,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC5101702",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.68",
+        "biosSerial": "CZC5101702",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.65 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-26T10:21:01.318Z",
+        "expiryDate": "2025-06-07T10:21:01.318Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "fd756499fc0c1398056d686fb60cdf856da393cc8e4e43f05d2e39d027efd224",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC348589S",
+        "biosSerial": "CZC348589S",
+        "userName": "PC",
+        "totalMemory": 4202229760,
+        "freeMemory": 1982468096,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC348589S",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.18",
+        "biosSerial": "CZC348589S",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "2.01 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-27T09:05:49.966Z",
+        "expiryDate": "2025-06-08T09:05:49.966Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "5d6cc31b070380a8dd7bcedc10f411bb8559a887da735d431b786262600ba638",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "2UA4291QWC",
+        "biosSerial": "2UA4291QWC",
+        "userName": "PC",
+        "totalMemory": 4179927040,
+        "freeMemory": 1739440128,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4590S",
+        "processorCores": 4,
+        "processorSpeed": "3 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "2UA4291QWC",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "2UA4291QWC",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.74 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-27T09:17:58.214Z",
+        "expiryDate": "2025-06-08T09:17:58.214Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "8a7986f1422bffa97c5eec5dccfb9464be6ae35ae7b539e4afce581b4d38c7e7",
+      "processorID": "BFEBFBFF000806E9",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000806E9",
+        "motherboardSerial": "/23364H2/CN12963765003F/",
+        "biosSerial": "23364H2",
+        "userName": "User",
+        "totalMemory": 8444342272,
+        "freeMemory": 4441817088,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-7200U",
+        "processorCores": 4,
+        "processorSpeed": "2.5 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Dell Inc.",
+        "motherboardModel": "0NDFXD",
+        "motherboardSerial": "/23364H2/CN12963765003F/",
+        "biosVendor": "Dell Inc.",
+        "biosVersion": "1.39.0",
+        "biosSerial": "23364H2",
+        "totalMemory": "8.44 GB",
+        "freeMemory": "4.46 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 11 Pro",
+        "osRelease": "10.0.22000",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-02-09T04:57:31.578Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 3
+      }
+    },
+    {
+      "hmid": "0ddaea9c4ed7897e37071ae4e68cee486510f5c4e16babf7da16e5b9850a1fba",
+      "processorID": "BFEBFBFF000206A7",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000206A7",
+        "motherboardSerial": "2UA2100WPV",
+        "biosSerial": "2UA2100WPV",
+        "userName": "Ibadullah",
+        "totalMemory": 10693406720,
+        "freeMemory": 6094188544,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-2400",
+        "processorCores": 4,
+        "processorSpeed": "3.1 GHz",
+        "cpuFlags": "de msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1495",
+        "motherboardSerial": "2UA2100WPV",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "J01 v02.09",
+        "biosSerial": "2UA2100WPV",
+        "totalMemory": "10.69 GB",
+        "freeMemory": "6.11 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-15T07:26:13.604Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "3c3cd53eeb12646c0de6b422ac9f76db1e7609d7d56a574c534b8077057b2a38",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "2UA5282FGW",
+        "biosSerial": "2UA5282FGW",
+        "userName": "PC",
+        "totalMemory": 4179927040,
+        "freeMemory": 1687359488,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E7",
+        "motherboardSerial": "2UA5282FGW",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.77",
+        "biosSerial": "2UA5282FGW",
+        "totalMemory": "4.18 GB",
+        "freeMemory": "1.71 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-28T09:44:01.470Z",
+        "expiryDate": "2025-06-09T09:44:01.470Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "0196d99f17619b5516417ab15f24bf22455765dad808a1badf74ef6bbedc3ea3",
+      "processorID": "BFEBFBFF000206A7",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000206A7",
+        "motherboardSerial": "PCBMBB97V2M6IU",
+        "biosSerial": "JPA228PRXM",
+        "userName": "ithub",
+        "totalMemory": 4215853056,
+        "freeMemory": 2250035200,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Celeron(R) CPU B840 @ 1.90GHz",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": "Intel Celeron® B840",
+        "processorCores": 2,
+        "processorSpeed": "1.9 GHz",
+        "cpuFlags": "de msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1619",
+        "motherboardSerial": "PCBMBB97V2M6IU",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "68SCE Ver. F.22",
+        "biosSerial": "JPA228PRXM",
+        "totalMemory": "4.22 GB",
+        "freeMemory": "2.26 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Education",
+        "osRelease": "10.0.18362",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-03-01T00:14:14.284Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 3
+      }
+    },
+    {
+      "hmid": "cf4a38dd9c6e13e6abea178726a4537e0991b4b062da61d3e2b528237a52901f",
+      "processorID": "BFEBFBFF0001067A",
+      "systemInfo": {
+        "processorId": "BFEBFBFF0001067A",
+        "motherboardSerial": "CNU0143L97",
+        "biosSerial": "CNU0143L97",
+        "userName": "khan3",
+        "totalMemory": 2072260608,
+        "freeMemory": 700735488,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM)2 Duo CPU     T6570  @ 2.10GHz",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™2 Duo T6570",
+        "processorCores": 2,
+        "processorSpeed": "2.1 GHz",
+        "cpuFlags": "de mce apic sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1526",
+        "motherboardSerial": "CNU0143L97",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "68PVI Ver. F.20",
+        "biosSerial": "CNU0143L97",
+        "totalMemory": "2.07 GB",
+        "freeMemory": "0.70 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 8.1 Enterprise",
+        "osRelease": "6.3.9600",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-28T13:42:44.873Z",
+        "expiryDate": "2025-06-09T13:42:44.873Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "134d836e70102d8e1107f4bd3ae14780641d61812f3be510940d5e6ab0231386",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4280CJ2",
+        "biosSerial": "CZC4280CJ2",
+        "userName": "PC",
+        "totalMemory": 4202217472,
+        "freeMemory": 1775861760,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4280CJ2",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.21",
+        "biosSerial": "CZC4280CJ2",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.78 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-29T09:23:35.346Z",
+        "expiryDate": "2025-06-10T09:23:35.346Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "347a9ffb93115f7cd7fe20e2947bfb2b1d8de484b7a54d7a95a1469d3ff1621d",
+      "processorID": "BFEBFBFF000006FB",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000006FB",
+        "motherboardSerial": "..CN1374087R02UN.",
+        "biosSerial": "8C8R5H1",
+        "userName": "Aman Hospital",
+        "totalMemory": 2101985280,
+        "freeMemory": 806285312,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E6550  @ 2.33GHz",
+        "cpuCores": 2
+      },
+      "moreInfo": {
+        "processorModel": " ",
+        "processorCores": 2,
+        "processorSpeed": "NaN GHz",
+        "cpuFlags": "de mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "",
+        "motherboardModel": "",
+        "motherboardSerial": "",
+        "biosVendor": "",
+        "biosVersion": "",
+        "biosSerial": "",
+        "totalMemory": "2.10 GB",
+        "freeMemory": "0.78 GB",
+        "osPlatform": "Windows",
+        "osDistro": "",
+        "osRelease": "6.1.7600",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-29T09:46:25.402Z",
+        "expiryDate": "2025-06-10T09:46:25.402Z",
+        "mode": 0,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "470031199130cccbc8c87add70cdcdd0ea10307b9b1d25e6ef5bade9e70f792f",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4390GM7",
+        "biosSerial": "CZC4390GM7",
+        "userName": "PC",
+        "totalMemory": 4219637760,
+        "freeMemory": 1204133888,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "18E9",
+        "motherboardSerial": "CZC4390GM7",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L02 v02.19",
+        "biosSerial": "CZC4390GM7",
+        "totalMemory": "4.22 GB",
+        "freeMemory": "1.20 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-30T03:17:51.322Z",
+        "expiryDate": "2025-06-11T03:17:51.322Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "10f63e58f739f19df308b54d397f78a93e78600927ec77675659900f0419ed19",
+      "processorID": "BFEBFBFF000306C3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306C3",
+        "motherboardSerial": "CZC4362C84",
+        "biosSerial": "CZC4362C84",
+        "userName": "Ali ghouri",
+        "totalMemory": 4202188800,
+        "freeMemory": 1683353600,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-4570",
+        "processorCores": 4,
+        "processorSpeed": "3.2 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Hewlett-Packard",
+        "motherboardModel": "1998",
+        "motherboardSerial": "CZC4362C84",
+        "biosVendor": "Hewlett-Packard",
+        "biosVersion": "L01 v02.33",
+        "biosSerial": "CZC4362C84",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.68 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-05-30T03:44:15.164Z",
+        "expiryDate": "2025-06-11T03:44:15.164Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "15b3f89ca5f90e616f5db7c355ad12b9fff55aaa8c88397b97f1964a11bdec8f",
+      "processorID": "BFEBFBFF000806E9",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000806E9",
+        "motherboardSerial": "MP1DBQ28",
+        "biosSerial": "MP1DBQ28",
+        "userName": "LAPTEX",
+        "totalMemory": 4154863616,
+        "freeMemory": 1718599680,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM) i3-7130U CPU @ 2.70GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i3-7130U",
+        "processorCores": 4,
+        "processorSpeed": "2.7 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "LENOVO",
+        "motherboardModel": "LNVNB161216",
+        "motherboardSerial": "MP1DBQ28",
+        "biosVendor": "LENOVO",
+        "biosVersion": "4QCN41WW(V2.05)",
+        "biosSerial": "MP1DBQ28",
+        "totalMemory": "4.15 GB",
+        "freeMemory": "1.65 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 11 Pro",
+        "osRelease": "10.0.22000",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-04-29T14:18:56.042Z",
+        "expiryDate": null,
+        "mode": 0,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "a2b44697bcead88af80e29baed9f01a45a281ffe4f45ac6b016c7f73384f6120",
+      "processorID": "BFEBFBFF0001067A",
+      "basicSystemInfo": {
+        "processorId": "BFEBFBFF0001067A",
+        "motherboardSerial": "MXL0360JTW",
+        "biosSerial": "MXL0360JTW",
+        "userName": "INZI IT SERVICES",
+        "totalMemory": 3163811840,
+        "freeMemory": 2144612352,
+        "platform": "win32",
+        "arch": "x64",
+        "cpuModel": "Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz",
+        "cpuCores": 2
+      },
+      "detailedSystemInfo": {
+        "processorModel": " ",
+        "processorCores": 2,
+        "processorSpeedGHz": null,
+        "motherboardManufacturer": "",
+        "motherboardModel": "",
+        "motherboardSerial": "",
+        "biosVendor": "",
+        "biosVersion": "",
+        "biosSerial": "",
+        "totalMemoryGB": "3.16",
+        "freeMemoryGB": "2.10",
+        "osPlatform": "Windows",
+        "osDistro": "",
+        "osRelease": "6.1.7601",
+        "osArch": "x64"
+      },
+      "appMode": {
+        "startDate": "2025-05-22T07:35:44.612Z",
+        "expiryDate": "2025-06-03T07:35:44.612Z",
+        "mode": 1,
+        "trialDays": 12
+      }
     }
-  }
-]
+  ]
