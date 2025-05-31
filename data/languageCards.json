@@ -11,9 +11,24 @@
     "supportedLayouts": [
       { "name": "QWERTY keyboard", "id": 1, " status": 20 },
       { "name": "AZERTY keyboard", "id": 2, "status": 10 },
-      { "name": "DAVORK keyboard", "id": 3, "status": 10 }
+      { "name": "Dvorak keyboard", "id": 3, "status": 10 }
     ]
   },
+  {
+    "languageFamily": "Hindi",
+    "languageDescription": "हिंदी टाइपिंग भारत की राजभाषा में प्रभावी संचार के लिए अत्यंत आवश्यक है। यह देवनागरी लिपि में तेज़ और सहज लेखन को संभव बनाती है, जो शिक्षा, मीडिया और सरकारी क्षेत्रों में व्यापक रूप से उपयोग होती है। हिंदी टाइपिंग में दक्षता कार्यक्षमता बढ़ाती है और स्थानीय भाषाओं में डिजिटल साक्षरता को प्रोत्साहित करती है। यह हमारी भाषायी विरासत को सुरक्षित रखने में भी सहायक है और क्षेत्रीय अवसरों तक पहुँच को सरल बनाती है। सटीक हिंदी टाइपिंग छात्रों और पेशेवरों दोनों के लिए एक महत्वपूर्ण कौशल है।",
+    "id": 91,
+    "primaryFontSize": 20,
+    "direction": "ltr",
+    "secondaryFontSize": 18,
+    "requestFont": "Noto-Sans-Devanagari",
+    "fontURL": "https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@100..900&display=swap",
+    "supportedLayouts": [
+      { "name": "Devanagari-INSCRIPT", "id": 1, "status": 20 },
+      { "name": "Traditional-INSCRIPT", "id": 2, "status": 20 }
+    ]
+  },
+
   {
     "languageFamily": "English",
     "cardTitle": "Colemak",
