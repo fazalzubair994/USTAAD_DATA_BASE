@@ -17177,5 +17177,2165 @@
         }
       ]
     }
+  },
+  "99": {
+    "DrillUI": {
+      "wordFramMargins": "4px",
+      "lineHeight": "0em",
+      "keyFontSize_Lg": 32,
+      "keyFontSize_XLg": 36,
+      "keyFontSize_Sm": 27,
+      "wordsFontSize_Lg": 30,
+      "wordsFontSize_XLg": 34,
+      "wordsFontSize_Sm": 26,
+      "sentenceFontSize_Lg": 24,
+      "sentenceFontSize_XLg": 28,
+      "sentenceFontSize_Sm": 22,
+      "paragraphFontSize_Lg": 24,
+      "paragraphFontSize_XLg": 26,
+      "paragraphFontSize_Sm": 22,
+      "pageFontSize_Lg": 26,
+      "pageFontSize_XLg": 32,
+      "pageFontSize_Sm": 20
+    },
+    "HomeTab": {
+      "categories": [
+        {
+          "name": "Build Your Typing Skills...",
+          "categoryID": "Chapter-1"
+        }
+      ],
+      "chapters": [
+        {
+          "categoryID": "Chapter-1",
+          "chapters": [
+            {
+              "title": "Base Version",
+              "certificateRequirement": true,
+              "description": "Yadi aap Hindi bhaasha mein typing ke liye bilkul naye hain, ya apni moolbhoot likhne ki kala ko sudhaarna chahte hain, to hamara prarambhik star aapke liye behtareen hai. Is adhyay ko anukaran karke aap un sabhi chhote aksharon ki practice karenge jinko type karne ke liye Shift key ki zarurat nahi hoti.",
+              "iconUnicode": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"60\" height=\"60\" viewBox=\"0 0 512 512\"><path fill=\"#1b75bb\" d=\"M500.951 39.183c0-15.84-12.96-28.8-28.8-28.8H35.636c-14.256 0-25.92 11.664-25.92 25.92v439.394c0 14.256 11.664 25.92 25.92 25.92H472.15c15.84 0 28.8-12.96 28.8-28.8V39.183z\"/><path fill=\"#1b75bb\" d=\"M475.031 10.383h-.149v453.166c0 6.6-5.4 12-12 12H9.716v.149c0 14.256 11.664 25.92 25.92 25.92H475.03c14.256 0 25.92-11.664 25.92-25.92V36.303c.001-14.256-11.663-25.92-25.919-25.92\"/><path fill=\"#f9f9f7\" d=\"M214.929 133.048v46.139c0 7.669 1.71 11.297 5.518 13.466a3.58 3.58 0 0 1 1.633 4.189l-5.585 17.77a3.6 3.6 0 0 1-3.895 2.495c-10.609-1.412-18.329-4.821-23.487-12.305c-1.335-1.936-4.115-2.197-5.67-.434c-8.646 9.806-20.499 13.529-32.884 13.529c-23.857 0-38.937-15.53-38.937-37.361c0-26.107 19.806-40.512 55.817-40.512h8.554a3.6 3.6 0 0 0 3.6-3.6v-1.352c0-13.954-5.627-18.23-20.031-18.23c-6.938 0-17.205 1.85-27.95 5.214a3.6 3.6 0 0 1-4.482-2.263l-5.819-16.973a3.61 3.61 0 0 1 2.192-4.564c13.977-5.046 29.183-7.748 41.687-7.748c34.885.003 49.739 14.632 49.739 42.54m-43.888 26.784c-15.98 0-23.632 5.627-23.632 17.555c0 9.453 4.952 14.854 13.729 14.854c7.55 0 13.653-3.722 17.912-10.373a3.55 3.55 0 0 0 .543-1.913v-16.524a3.6 3.6 0 0 0-3.6-3.6zm152.813-62.397c0 3.11 3.643 4.718 5.995 2.684c6.958-6.018 16.172-9.608 25.515-9.608c29.484 0 45.014 23.857 45.014 63.919c0 36.686-17.78 63.469-47.714 63.469c-10.376 0-19.33-3.555-26.297-9.874c-2.164-1.963-5.629-.758-6.026 2.137l-.11.801a3.6 3.6 0 0 1-3.567 3.11h-25.22a3.6 3.6 0 0 1-3.6-3.6V50.311a3.6 3.6 0 0 1 3.22-3.58l28.811-3.061a3.6 3.6 0 0 1 3.98 3.58zm0 81.803c0 .701.195 1.396.586 1.978c4.473 6.655 10.768 10.575 18.095 10.575c12.154 0 20.481-9.678 20.481-37.361c0-30.159-7.877-37.361-18.905-37.361c-8.255 0-14.622 4.822-19.71 12.847a3.6 3.6 0 0 0-.546 1.915v47.407zM211.971 328.11l-11.231 15.855c-1.138 1.606-3.363 2.007-4.977.881c-6.571-4.585-12.797-6.652-19.885-6.652c-15.08 0-23.857 10.128-23.857 36.911c0 26.558 9.453 34.436 23.632 34.436c7.282 0 12.671-2.065 19.176-6.648a3.594 3.594 0 0 1 5 .873l12.093 17.133c1.127 1.596.784 3.815-.791 4.971c-10.216 7.501-22.257 12.029-37.505 12.029c-36.686 0-59.418-24.758-59.418-62.794c0-37.812 22.732-64.595 58.743-64.595c15.565 0 27.685 4.401 38.301 12.674a3.607 3.607 0 0 1 .719 4.926m131.127-13.777V267.25a3.6 3.6 0 0 1 3.98-3.58l28.811 3.061a3.6 3.6 0 0 1 3.22 3.58v160.162a3.6 3.6 0 0 1-3.6 3.6h-25.194a3.6 3.6 0 0 1-3.57-3.139l-.334-2.59c-.381-2.956-4.001-4.213-6.098-2.095c-6.771 6.835-16.277 11.651-28.948 11.651c-30.384 0-45.463-25.208-45.463-63.919c0-36.911 18.681-63.47 49.74-63.47c8.047 0 15.573 2.605 21.884 6.824c2.38 1.592 5.572-.137 5.572-3.002m0 33.805c0-.895-.327-1.766-.935-2.423c-5.073-5.475-10.085-8.872-17.295-8.872c-12.829 0-21.606 10.578-21.606 37.361c0 29.709 8.103 37.361 19.581 37.361c8.035 0 14.184-4.19 19.66-12.37a3.6 3.6 0 0 0 .596-1.992v-49.065z\"/></svg>",
+              "chapterId": 1,
+              "descriptionTitle": "Chapter 1: "
+            },
+            {
+              "title": "Shift Version",
+              "certificateRequirement": true,
+              "description": "Is adhyay ke dauraan, aap poore keyboard ke sabhi buttons ke saath-saath SHIFT key ki bhi practice karenge. Yeh adhyay ek mahatvapurna bhoomika nibhata hai un keys ko majboot karne mein jinmein SHIFT key ka upyog hota hai, khaaskar jab aap prarambhik star ka abhyas kar rahe hote hain.",
+              "iconUnicode": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"60\" height=\"60\" viewBox=\"0 0 512 512\"><path fill=\"#1b75bb\" d=\"M500.951 39.183c0-15.84-12.96-28.8-28.8-28.8H35.636c-14.256 0-25.92 11.664-25.92 25.92v439.394c0 14.256 11.664 25.92 25.92 25.92H472.15c15.84 0 28.8-12.96 28.8-28.8V39.183z\"/><path fill=\"#1b75bb\" d=\"M475.031 10.383h-.149v453.166c0 6.6-5.4 12-12 12H9.716v.149c0 14.256 11.664 25.92 25.92 25.92H475.03c14.256 0 25.92-11.664 25.92-25.92V36.303c.001-14.256-11.663-25.92-25.919-25.92\"/><path fill=\"#f9f9f7\" d=\"M225.264 214.073h-24.215a7.2 7.2 0 0 1-7.009-5.554l-5.268-22.428a7.2 7.2 0 0 0-7.009-5.554h-33.829a7.2 7.2 0 0 0-7.009 5.554l-5.268 22.428a7.2 7.2 0 0 1-7.009 5.554h-23.302c-4.831 0-8.292-4.664-6.891-9.288l42.901-141.572a7.2 7.2 0 0 1 6.891-5.112h34.323a7.2 7.2 0 0 1 6.893 5.121l42.696 141.572c1.392 4.622-2.068 9.279-6.895 9.279m-46.423-69.403l-7.051-29.772c-1.752-7.399-12.288-7.383-14.018.022l-6.954 29.772c-1.055 4.516 2.373 8.838 7.011 8.838h14.005c4.648 0 8.078-4.337 7.007-8.86m156.712-86.569c41.862 0 67.745 10.578 67.745 39.837c0 12.518-5.537 21.169-13.207 26.721c-4.331 3.135-3.636 9.759 1.127 12.187c10.551 5.376 18.606 14.798 18.606 31.764c0 35.561-28.809 45.463-68.195 45.463h-43.44a7.2 7.2 0 0 1-7.2-7.2V65.301a7.2 7.2 0 0 1 7.2-7.2zm-6.977 33.533v21.611a7.2 7.2 0 0 0 7.2 7.2h6.079c15.305 0 23.407-5.852 23.407-18.906c0-12.604-8.327-17.105-26.107-17.105h-3.378a7.2 7.2 0 0 0-7.201 7.2m0 88.231a7.2 7.2 0 0 0 7.2 7.2h6.079c17.33 0 29.259-3.602 29.259-20.481c0-15.754-10.578-21.606-26.558-21.606h-8.779a7.2 7.2 0 0 0-7.2 7.2zm-108.6 117.266l-8.933 10.587c-2.395 2.839-6.543 3.365-9.607 1.265c-6.828-4.682-14.146-7.25-22.747-7.25c-19.581 0-33.535 15.979-33.535 54.017c0 37.136 13.729 53.341 34.436 53.341c9.856 0 17.429-3.853 24.651-8.945c3.145-2.217 7.471-1.597 9.839 1.435l8.445 10.809c2.402 3.075 1.937 7.519-1.084 9.989c-10.476 8.564-25.558 15.52-43.877 15.52c-42.763 0-71.346-28.584-71.346-82.149c0-52.441 29.934-81.7 70.221-81.7c17.831 0 30.866 4.637 42.204 12.562c3.452 2.415 4.05 7.299 1.333 10.519m111.302-19.029c41.862 0 81.249 12.829 81.249 77.198c0 62.793-37.811 78.773-77.873 78.773H294.59a7.2 7.2 0 0 1-7.2-7.2V285.302a7.2 7.2 0 0 1 7.2-7.2zm-6.301 34.207v87.556a7.2 7.2 0 0 0 7.2 7.2h4.953c22.057 0 36.686-10.579 36.686-51.766c0-41.638-15.53-50.19-37.136-50.19h-4.503a7.2 7.2 0 0 0-7.2 7.2\"/></svg>",
+              "chapterId": 2,
+              "descriptionTitle": "Chapter 2: "
+            },
+            {
+              "title": "Numbers Course",
+              "certificateRequirement": true,
+              "description": "Is adhyay ko khaas taur par aankadon (numbers) ki typing ke liye design kiya gaya hai. Yaani ki iska abhyas karke aapko keyboard par numbers type karne ki behtareen practice milegi, jisse aap asaani se aankade likh sakenge. Yah adhyay certificate ke liye bhi avashyak hai.",
+              "iconUnicode": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"60\" height=\"60\" viewBox=\"0 0 36 36\"><path fill=\"#1b75bb\" d=\"M36 32a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h28a4 4 0 0 1 4 4z\"/><path fill=\"#fff\" d=\"M9.613 6.096H8.492c-.912 0-1.292-.665-1.292-1.311c0-.665.475-1.311 1.292-1.311h2.698c.817 0 1.273.589 1.273 1.349v10.81c0 .95-.608 1.481-1.425 1.481s-1.425-.532-1.425-1.481zm5.129 16.627c0 1.196-.513 2.241-1.558 2.906c1.368.627 2.318 1.9 2.318 3.4c0 2.28-2.09 4.198-4.788 4.198c-2.812 0-4.559-2.07-4.559-3.571c0-.74.779-1.272 1.463-1.272c1.291 0 .988 2.223 3.134 2.223c.988 0 1.786-.76 1.786-1.767c0-2.66-3.23-.703-3.23-2.944c0-1.995 2.698-.646 2.698-2.755c0-.722-.513-1.273-1.368-1.273c-1.805 0-1.558 1.862-2.85 1.862c-.779 0-1.235-.703-1.235-1.406c0-1.481 2.033-3.077 4.142-3.077c2.736-.001 4.047 1.993 4.047 3.476m13.373-8.231c.836 0 1.48.38 1.48 1.254S28.951 17 28.228 17h-6.346c-.835 0-1.48-.38-1.48-1.254c0-.399.246-.741.437-.969c1.577-1.881 3.286-3.59 4.729-5.68c.343-.494.666-1.083.666-1.767c0-.779-.59-1.463-1.368-1.463c-2.185 0-1.14 3.078-2.964 3.078c-.912 0-1.387-.646-1.387-1.387c0-2.394 2.128-4.312 4.465-4.312s4.217 1.539 4.217 3.951c0 2.641-2.944 5.262-4.559 7.295zm-6.934 15.526c-.931 0-1.33-.627-1.33-1.121c0-.418.152-.646.267-.836l4.255-7.713c.418-.76.95-1.102 1.938-1.102c1.102 0 2.184.703 2.184 2.432v5.832h.323c.741 0 1.33.494 1.33 1.254s-.589 1.254-1.33 1.254h-.323v1.614c0 1.007-.398 1.483-1.367 1.483s-1.368-.476-1.368-1.483v-1.614zm4.578-7.808h-.038l-2.564 5.3h2.603z\"/></svg>",
+              "chapterId": 3,
+              "descriptionTitle": "Chapter 3: "
+            }
+          ]
+        }
+      ],
+      "exTitles": [
+        {
+          "chapterID": 1,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": [
+                {
+                  "key": "ो",
+                  "size": "20px",
+                  "m": "0px 0px -4px 0px"
+                },
+                {
+                  "key": "े",
+                  "size": "25px",
+                  "m": "0px 0px -1px 2px"
+                },
+                {
+                  "key": "्",
+                  "size": "25px",
+                  "m": "0px 0px 20px 0px"
+                },
+                {
+                  "key": "ि",
+                  "size": "20px",
+                  "m": "0px 0px -3px 0px"
+                },
+                {
+                  "key": "र",
+                  "size": "25px",
+                  "m": "0px 0px 10px 0px"
+                },
+                {
+                  "key": "क",
+                  "size": "22px",
+                  "m": "0px 5px 3px 3px"
+                },
+                {
+                  "key": "त",
+                  "size": "25px",
+                  "m": "0px 0px 11px 0px"
+                },
+                {
+                  "key": "च",
+                  "size": "25px",
+                  "m": "0px 0px 7px 0px"
+                }
+              ],
+              "Extras": "( The Main Row )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": [
+                {
+                  "key": "ु",
+                  "size": "25px",
+                  "m": "0px -2px 19px 0px"
+                },
+                {
+                  "key": "ू",
+                  "size": "25px",
+                  "m": "0px 0px 19px 0px"
+                },
+                {
+                  "key": "ी",
+                  "size": "22px",
+                  "m": "0px 0px -1px 0px"
+                },
+                {
+                  "key": "ा",
+                  "size": "26px",
+                  "m": "0px 0px 10px 0px"
+                },
+                {
+                  "key": "प",
+                  "size": "25px",
+                  "m": "0px 0px 5px 0px"
+                },
+                {
+                  "key": "ब",
+                  "size": "25px",
+                  "m": "0px 0px 11px 0px"
+                },
+                {
+                  "key": "ह",
+                  "size": "25px",
+                  "m": "0px 0px 11px 0px"
+                },
+                {
+                  "key": "ग",
+                  "size": "25px",
+                  "m": "0px 0px 11px 0px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 3",
+              "keys": [
+                {
+                  "key": "ै",
+                  "size": "25px",
+                  "m": "0px -3px -1px 0px"
+                },
+                {
+                  "key": "ौ",
+                  "size": "20px",
+                  "m": "0px 0px -4px 0px"
+                },
+                {
+                  "key": "ॆ",
+                  "size": "25px",
+                  "m": "0px -5px 2px 0px"
+                },
+                {
+                  "key": "ं",
+                  "size": "28px",
+                  "m": "0px 0px 4px 0px"
+                },
+                {
+                  "key": "द",
+                  "size": "25px",
+                  "m": "0px 0px 10px 0px"
+                },
+                {
+                  "key": "ज",
+                  "size": "25px",
+                  "m": "0px 0px 9px 0px"
+                },
+                {
+                  "key": "य",
+                  "size": "25px",
+                  "m": "0px 0px 8px 0px"
+                },
+                {
+                  "key": ".",
+                  "size": "36px",
+                  "m": "0px 0px 37px 0px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 4",
+              "keys": [
+                {
+                  "key": "म",
+                  "size": "25px",
+                  "m": "0px 0px 5px 0px"
+                },
+                {
+                  "key": "न",
+                  "size": "25px",
+                  "m": "0px 0px 10px 0px"
+                },
+                {
+                  "key": "व",
+                  "size": "25px",
+                  "m": "0px 0px 10px 0px"
+                },
+                {
+                  "key": ",",
+                  "size": "40px",
+                  "m": "0px 0px 49px 0px"
+                },
+                {
+                  "key": "स",
+                  "size": "25px",
+                  "m": "0px 0px 5px 0px"
+                },
+                {
+                  "key": "ल",
+                  "size": "25px",
+                  "m": "0px 0px 11px 0px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 5",
+              "keys": [
+                {
+                  "key": "ट",
+                  "size": "25px",
+                  "m": "0px 0px 8px 0px"
+                },
+                {
+                  "key": "ड",
+                  "size": "24px",
+                  "m": "0px 1px 7px 0px"
+                },
+                {
+                  "key": "़",
+                  "size": "34px",
+                  "m": "0px 0px 34px 0px"
+                },
+                {
+                  "key": "ॉ",
+                  "size": "20px",
+                  "m": "0px 0px -5px -4px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            }
+          ]
+        },
+        {
+          "chapterID": 2,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": [
+                {
+                  "key": "ओ",
+                  "size": "20px",
+                  "m": "1px 5px -2px 3px"
+                },
+                {
+                  "key": "ए",
+                  "size": "20px",
+                  "m": "0px 10px 3px 9px"
+                },
+                {
+                  "key": "अ",
+                  "size": "20px",
+                  "m": "3px 0px 2px -2px"
+                },
+                {
+                  "key": "इ",
+                  "size": "20px",
+                  "m": "3px 0px 11px 0px"
+                },
+                {
+                  "key": "ऱ",
+                  "size": "22px",
+                  "m": "0px 0px 6px 0px"
+                },
+                {
+                  "key": "ख",
+                  "size": "20px",
+                  "m": "0px 0px 1px 0px"
+                },
+                {
+                  "key": "थ",
+                  "size": "22px",
+                  "m": "0px 0px 5px -1px"
+                },
+                {
+                  "key": "छ",
+                  "size": "20px",
+                  "m": "0px 0px 4px 0px"
+                }
+              ],
+              "Extras": "( The Main Row )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": [
+                {
+                  "key": "उ",
+                  "size": "20px",
+                  "m": "0px 0px 1px 0px"
+                },
+                {
+                  "key": "ऊ",
+                  "size": "20px",
+                  "m": "0px 0px 3px 0px"
+                },
+                {
+                  "key": "ई",
+                  "size": "20px",
+                  "m": "10px 15px 10px 12px"
+                },
+                {
+                  "key": "आ",
+                  "size": "20px",
+                  "m": "5px 10px 3px 8px"
+                },
+                {
+                  "key": "फ",
+                  "size": "20px",
+                  "m": "0px 0px -1px 0px"
+                },
+                {
+                  "key": "भ",
+                  "size": "20px",
+                  "m": "0px 0px 1px 0px"
+                },
+                {
+                  "key": "ङ",
+                  "size": "20px",
+                  "m": "0px 0px -1px 0px"
+                },
+                {
+                  "key": "घ",
+                  "size": "20px",
+                  "m": "0px 0px 1px 0px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 3",
+              "keys": [
+                {
+                  "key": "ऐ",
+                  "size": "20px",
+                  "m": "6px 10px 3px 7px"
+                },
+                {
+                  "key": "औ",
+                  "size": "20px",
+                  "m": "0px 10px -3px 6px"
+                },
+                {
+                  "key": "ऎ",
+                  "size": "20px",
+                  "m": "0px 10px 0px 10px"
+                },
+                {
+                  "key": "ँ",
+                  "size": "24px",
+                  "m": "0px 0px -3px 0px"
+                },
+                {
+                  "key": "ध",
+                  "size": "22px",
+                  "m": "0px 0px 1px -1px"
+                },
+                {
+                  "key": "झ",
+                  "size": "20px",
+                  "m": "0px 0px 0px 0px"
+                },
+                {
+                  "key": "य़",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "।",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 4",
+              "keys": [
+                {
+                  "key": "ण",
+                  "size": "22px",
+                  "m": "0px 0px 3px 0px"
+                },
+                {
+                  "key": "ऩ",
+                  "size": "22px",
+                  "m": "5px 0px 6px -1px"
+                },
+                {
+                  "key": "ऴ",
+                  "size": "22px",
+                  "m": "1px 0px 4px 5px 0px"
+                },
+                {
+                  "key": "ष",
+                  "size": "22px",
+                  "m": "0px 0px 3px 0px"
+                },
+                {
+                  "key": "श",
+                  "size": "20px",
+                  "m": "0px 0px 1px 0px"
+                },
+                {
+                  "key": "ळ",
+                  "size": "24px",
+                  "m": "0px 0px 4px 0px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            },
+            {
+              "name": "Exercise 5",
+              "keys": [
+                {
+                  "key": "ठ",
+                  "size": "22px",
+                  "m": "0px 0px 3px 0px"
+                },
+                {
+                  "key": "ढ",
+                  "size": "22px",
+                  "m": "0px 0px 3px 0px"
+                },
+                {
+                  "key": "ञ",
+                  "size": "22px",
+                  "m": "0px 0px 4px 0px"
+                },
+                {
+                  "key": "ऑ",
+                  "size": "18px",
+                  "m": "0px 0px -8px 0px"
+                }
+              ],
+              "Extras": "Add New Exercise in this Chapter"
+            }
+          ]
+        },
+        {
+          "chapterID": 3,
+          "ExercisesTitles": [
+            {
+              "name": "Exercise 1",
+              "keys": [
+                {
+                  "key": "3",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                {
+                  "key": "4",
+                  "size": "20px",
+                  "m": "4px 4px 4px 4px"
+                },
+                "7",
+                "8"
+              ],
+              "Extras": "( The Number Row )"
+            },
+            {
+              "name": "Exercise 2",
+              "keys": ["2", "9"],
+              "Extras": ""
+            },
+            {
+              "name": "Exercise 3",
+              "keys": ["1", "0"],
+              "Extras": ""
+            },
+            {
+              "name": "Exercise 4",
+              "keys": ["5", "6"],
+              "Extras": ""
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "chapterID": 1,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ो, े - र, क ] keys.",
+                  "serialNo": "1.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.1-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.1-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ्, ि - त, च] keys.",
+                  "serialNo": "1.1-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.1-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.1-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ु, ू - प, ब ] keys.",
+                  "serialNo": "1.2-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.2-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.2-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ी, ा- ह, ग ] keys.",
+                  "serialNo": "1.2-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.2-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.2-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ै, ौ- द, ज] keys.",
+                  "serialNo": "1.3-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.3-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ॆ, ं, ., य ] keys.",
+                  "serialNo": "1.3-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.3-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.3-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.3-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ म - न, ,- स ] keys.",
+                  "serialNo": "1.4-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.4-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ व, ल ] keys.",
+                  "serialNo": "1.4-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.4-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.4-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.4-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 5",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ट, ड- ़, ॉ ] keys.",
+                  "serialNo": "1.5-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.5-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "1.5-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "1.5-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 60,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "1.5-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Words Challenge: (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "1.5-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 2,
+                    "score": 70,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterID": 2,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ओ, ए - ऱ, ख ] keys.",
+                  "serialNo": "2.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.1-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ अ, इ - थ, छ ] keys.",
+                  "serialNo": "2.1-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.1-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.1-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Make your typing more strong by writing paragraphs.",
+                  "serialNo": "2.1-6",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 35,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice ",
+                  "description": "Practice these [ उ ऊ - फ भ ] keys.",
+                  "serialNo": "2.2-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.2-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ई, आ - ङ, घ ] keys.",
+                  "serialNo": "2.2-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.2-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.2-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Make your typing more strong by writing paragraphs.",
+                  "serialNo": "2.2-6",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 35,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ऐ, औ - ध, झ ] keys.",
+                  "serialNo": "2.3-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.3-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ऎ, ँ - य़, । ] keys.",
+                  "serialNo": "2.3-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.3-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.3-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Make your typing more strong by writing paragraphs.",
+                  "serialNo": "2.3-6",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 35,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ण - ष ] keys.",
+                  "serialNo": "2.4-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.4-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice  ",
+                  "description": "Practice these [ ऩ, ऴ - श, ळ ] keys.",
+                  "serialNo": "2.4-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.4-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.4-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Make your typing more strong by writing paragraphs.",
+                  "serialNo": "2.4-6",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 35,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 5",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice   ",
+                  "description": "Practice these [ ठ, ढ, ञ, ऑ ] keys.",
+                  "serialNo": "2.5-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 16,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "2.5-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 17,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 26,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Words Challenge: (City Defender)",
+                  "description": "Hone word skills, master all keys with precision, even the tough ones.",
+                  "serialNo": "2.5-3",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 70,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "2.5-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 25,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Make your typing more strong by writing paragraphs.",
+                  "serialNo": "2.5-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 35,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "safeDrive, words",
+                  "drillTitle": "Words Challenge: (Safe Drive)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "2.5-6",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 70,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chapterID": 3,
+          "chapterLessons": [
+            {
+              "name": "Exercise 1",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 3, 4 and 7, 8 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.1-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.1-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.1-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.1-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Words Challenge: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.1-6",
+                  "index": 101,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 70,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 2",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 2, 3, 4 and 7, 8, 9 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.2-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.2-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.2-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.2-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.2-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.2-6",
+                  "index": 107,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 40,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 3",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 1,2,3,4 and 7, 8, 9, 0 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.3-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.3-2",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.3-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.3-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.3-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.3-6",
+                  "index": 113,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 70,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Exercise 4",
+              "lessons": [
+                {
+                  "type": "keys",
+                  "drillTitle": "Keys Practice [ 1,2,3,4,5 & 6,7,8,9,0 ]",
+                  "description": "During this session you will systematically exercise each key.",
+                  "serialNo": "3.4-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, keys",
+                  "drillTitle": "Keys Challenge: (City Defender)",
+                  "description": "Hone your typing skills in this game, mastering keys with precision.",
+                  "serialNo": "3.4-2",
+                  "index": 115,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 50,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "words",
+                  "drillTitle": "Word Practice",
+                  "description": "During this session, you will practice selected keys, word by word.",
+                  "serialNo": "3.4-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "sentence",
+                  "drillTitle": "Sentence Writing",
+                  "description": "Perfect your typing with complete sentences.",
+                  "serialNo": "3.4-4",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "paragraphs",
+                  "drillTitle": "Paragraph Writing",
+                  "description": "Now you have to write a complete page for extra practice",
+                  "serialNo": "3.4-5",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 18,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 30,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "cityDefender, words",
+                  "drillTitle": "Play Game: (City Defender)",
+                  "description": "Play to complete this exercise and master challenging keys.",
+                  "serialNo": "3.4-6",
+                  "index": 119,
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 90,
+                    "duration": 2,
+                    "score": 70,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "GamesTab": {
+      "titles": {
+        "WordTitles": [
+          {
+            "title": "Animal Names",
+            "serialNumber": "10.1-1",
+            "exName": "Exercise 1: "
+          },
+          {
+            "title": "Bird Names",
+            "serialNumber": "10.1-2",
+            "exName": "Exercise 2: "
+          },
+          {
+            "title": "Planets Names",
+            "serialNumber": "10.1-3",
+            "exName": "Exercise 3: "
+          },
+          {
+            "title": "Useful Words",
+            "serialNumber": "10.1-4",
+            "exName": "Exercise 4: "
+          },
+          {
+            "title": "Years: (1900 -> 2024)",
+            "serialNumber": "10.1-5",
+            "exName": "Exercise 5: "
+          }
+        ],
+        "KeysTitles": [
+          {
+            "title": "Base Version (लघु अक्षर)",
+            "serialNumber": "10.2-1",
+            "exName": "Exercise 1: "
+          },
+          {
+            "title": "Shift Version (बड़े अक्षर)",
+            "serialNumber": "10.2-2",
+            "exName": "Exercise 2: "
+          },
+          {
+            "title": "(लघु अक्षर) & (बड़े अक्षर)",
+            "serialNumber": "10.2-3",
+            "exName": "Exercise 3: "
+          },
+          {
+            "title": "Numbers (0 - 9)",
+            "serialNumber": "10.2-4",
+            "exName": "Exercise 4: "
+          },
+          {
+            "title": "Complete Keyboard",
+            "serialNumber": "10.2-6",
+            "exName": "Exercise 5: "
+          }
+        ]
+      },
+      "GameResults": {
+        "safeDrive": [
+          {
+            "accountName": "Asif Jalal",
+            "date": "20-Oct-2024",
+            "score": "200",
+            "time": "04:00 PM"
+          },
+          {
+            "accountName": "Zubair6573",
+            "date": "12-Sep-2024",
+            "score": "400",
+            "time": "10:30 AM"
+          },
+          {
+            "accountName": "Sara Khan",
+            "date": "08-Nov-2024",
+            "score": "450",
+            "time": "03:15 PM"
+          },
+          {
+            "accountName": "Ahmed Ali",
+            "date": "05-Aug-2024",
+            "score": "390",
+            "time": "02:45 PM"
+          },
+          {
+            "accountName": "Nadia Shah",
+            "date": "16-Dec-2023",
+            "score": "275",
+            "time": "09:10 AM"
+          },
+          {
+            "accountName": "Bilal Akram",
+            "date": "22-Jul-2024",
+            "score": "180",
+            "time": "11:50 AM"
+          },
+          {
+            "accountName": "Fatima Noor",
+            "date": "14-Jan-2024",
+            "score": "430",
+            "time": "05:20 PM"
+          },
+          {
+            "accountName": "Hassan Raza",
+            "date": "01-Feb-2024",
+            "score": "310",
+            "time": "07:45 PM"
+          },
+          {
+            "accountName": "Ali Zain",
+            "date": "30-Mar-2024",
+            "score": "260",
+            "time": "06:35 PM"
+          },
+          {
+            "accountName": "Mariam Rafi",
+            "date": "17-Apr-2024",
+            "score": "290",
+            "time": "08:55 AM"
+          }
+        ],
+        "cityDefender": [
+          {
+            "accountName": "Asif Jalal",
+            "date": "20-Oct-2024",
+            "score": "200",
+            "time": "04:00 PM"
+          },
+          {
+            "accountName": "Zubair6573",
+            "date": "12-Sep-2024",
+            "score": "320",
+            "time": "10:30 AM"
+          },
+          {
+            "accountName": "Sara Khan",
+            "date": "08-Nov-2024",
+            "score": "450",
+            "time": "03:15 PM"
+          },
+          {
+            "accountName": "Ahmed Ali",
+            "date": "05-Aug-2024",
+            "score": "390",
+            "time": "02:45 PM"
+          },
+          {
+            "accountName": "Nadia Shah",
+            "date": "16-Dec-2023",
+            "score": "275",
+            "time": "09:10 AM"
+          },
+          {
+            "accountName": "Bilal Akram",
+            "date": "22-Jul-2024",
+            "score": "180",
+            "time": "11:50 AM"
+          },
+          {
+            "accountName": "Fatima Noor",
+            "date": "14-Jan-2024",
+            "score": "430",
+            "time": "05:20 PM"
+          },
+          {
+            "accountName": "Hassan Raza",
+            "date": "01-Feb-2024",
+            "score": "310",
+            "time": "07:45 PM"
+          },
+          {
+            "accountName": "Ali Zain",
+            "date": "30-Mar-2024",
+            "score": "260",
+            "time": "06:35 PM"
+          },
+          {
+            "accountName": "Mariam Rafi",
+            "date": "17-Apr-2024",
+            "score": "290",
+            "time": "08:55 AM"
+          }
+        ]
+      }
+    },
+    "TypingTest": {
+      "chapter": {},
+      "chapterNo": 5,
+      "chapterName": "Typing Test",
+      "exTitles": [
+        {
+          "chapterID": 5,
+          "ExercisesTitles": [
+            {
+              "name": "Test 1",
+              "Extras": "[ Hindi Typing Mastery ]",
+              "keys": []
+            },
+            {
+              "name": "Test 2",
+              "Extras": "[ Typing Fusion ]"
+            },
+            {
+              "name": "Test 3",
+              "Extras": "( Personalized Typing Test )"
+            }
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "chapterID": 5,
+          "chapterLessons": [
+            {
+              "name": "Test 1",
+              "lessons": [
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Application Challenge ",
+                  "description": "Test your typing speed and accuracy by writing application.",
+                  "serialNo": "5.1-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Essay Writing Challenge",
+                  "description": "Evaluate your typing speed and accuracy through essay writing. ",
+                  "serialNo": "5.1-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Short Story Challenge",
+                  "description": "Test your typing speed and accuracy through (Thristy Crow) ",
+                  "serialNo": "5.1-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Complaint letter",
+                  "description": "Evaluate your typing speed and accuracy through complaint letter",
+                  "serialNo": "5.1-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "score": 40,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Test 2",
+              "lessons": [
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Letter to Father",
+                  "description": "Let us check how much you take to write a simple letter.",
+                  "serialNo": "5.2-1",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Letter to mother (Challenge)",
+                  "description": "Let us check how much you take to write a simple letter.",
+                  "serialNo": "5.2-2",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Application for Clerk's Post",
+                  "description": "Quickly write an application for the post of a clerk.",
+                  "serialNo": "5.2-3",
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 20,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "maxNetSpeed": 40,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "pageDrill",
+                  "drillTitle": "Application for teacher's post",
+                  "description": "Let us check how much you take to write this application",
+                  "serialNo": "5.2-4",
+                  "stars": {
+                    "totalStars": 3,
+                    "accuracy": 80,
+                    "duration": 3,
+                    "score": 40,
+                    "minStars": 3
+                  }
+                }
+              ]
+            },
+            {
+              "name": "Test 3",
+              "lessons": [
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Application",
+                  "description": "Upload and practice typing with your own custom application file to enhance speed and accuracy.",
+                  "serialNo": "5.3-1",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Essay",
+                  "description": "Practice typing using a custom essay file to evaluate your typing speed and precision.",
+                  "serialNo": "5.3-2",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Short Story",
+                  "description": "Improve typing skills by uploading a short story of your choice and practicing it.",
+                  "serialNo": "5.3-3",
+                  "index": 0,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                },
+                {
+                  "type": "customPageDrill",
+                  "drillTitle": "Load Your Custom File - Letter",
+                  "description": "Enhance typing accuracy by practicing with a custom complaint letter or any file you upload.",
+                  "serialNo": "5.3-4",
+                  "index": 3,
+                  "stars": {
+                    "totalStars": 4,
+                    "netSpeed": 30,
+                    "accuracy": 90,
+                    "duration": 3,
+                    "maxNetSpeed": 45,
+                    "minStars": 3
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   }
 }
