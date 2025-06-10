@@ -11,6 +11,7 @@ const routeInfoRoutes = require("./routes/routeInfoRoutes");
 const userInterfaceRoutes = require("./routes/userInterfaceRoutes");
 const drillDataRoutes = require("./routes/drillMeterialsRoutes");
 const languageCards = require("./routes/languageCardsRoutes");
+const notifications = require("./routes/notificationRoutes");
 
 const keyboards = require("./data/Keyboards");
 const UiData = require("./data/userInterface");
@@ -26,6 +27,7 @@ app.use("/api/keyboards", keyboardRoutes);
 app.use("/api/users", userRoutes);
 app.use("/api/certificate", certificattion);
 app.use("/api/languageCards", languageCards);
+app.use("/api/notifications", notifications);
 app.use("/api/ui", userInterfaceRoutes);
 app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
@@ -111,6 +113,20 @@ app.post("/api/trackVisit", (req, res) => {
   } catch (err) {
     console.error("Error tracking visit:", err);
     res.status(500).send("Failed to track visit.");
+  }
+});
+app.post("/api/userFeedback", (req, res) => {
+  try {
+    // Get user-related info from request
+
+    console.log("----- New Feedback arrived -----");
+    console.log(req.body);
+    console.log("----------------------------------");
+
+    res.status(200).send("Feedback successfully recieved.");
+  } catch (err) {
+    console.error("Error tracking visit:", err);
+    res.status(500).send("Failed to track recive feedback.");
   }
 });
 
