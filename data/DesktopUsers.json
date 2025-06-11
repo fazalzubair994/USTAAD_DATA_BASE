@@ -1,4 +1,4 @@
-[
+ [
     {
       "hmid": "32b82e3d0e543bee3094bfa4cb5fc191436e3c54bfe4a2bbda5",
       "processorID": "BFEBFBFF0001067A",
@@ -1476,6 +1476,206 @@
         "expiryDate": "2025-06-03T07:35:44.612Z",
         "mode": 1,
         "trialDays": 12
+      }
+    },
+    {
+      "hmid": "b2eefe748d6d0ed2b17765f140a6c99dab6c688d17ee8f789a3c0a726733bbf1",
+      "processorID": "BFEBFBFF000906A3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000906A3",
+        "motherboardSerial": "MP2MX8ZB",
+        "biosSerial": "MP2MX8ZB",
+        "userName": "mohit",
+        "totalMemory": 16890322944,
+        "freeMemory": 9226330112,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "12th Gen Intel(R) Core(TM) i5-12450H",
+        "cpuCores": 12
+      },
+      "moreInfo": {
+        "processorModel": "Intel Gen Intel® Core™ i5-12450H",
+        "processorCores": 12,
+        "processorSpeed": "2 GHz",
+        "cpuFlags": "de pse mce sep mtrr mca cmov psn clfsh ds mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "LENOVO",
+        "motherboardModel": "LNVNB161216",
+        "motherboardSerial": "MP2MX8ZB",
+        "biosVendor": "LENOVO",
+        "biosVersion": "LACN31WW",
+        "biosSerial": "MP2MX8ZB",
+        "totalMemory": "16.89 GB",
+        "freeMemory": "9.21 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 11 Home Single Language",
+        "osRelease": "10.0.22621",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-09T15:34:42.418Z",
+        "expiryDate": "2025-06-21T15:34:42.418Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "b458821949d9f14d7055f2f5652a1a8f996e6fa304d922500df53d8fcef5ebc4",
+      "processorID": "BFEBFBFF000306A9",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306A9",
+        "motherboardSerial": "To be filled by O.E.M.",
+        "biosSerial": "To be filled by O.E.M.",
+        "userName": "User",
+        "totalMemory": 8474558464,
+        "freeMemory": 3906584576,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i3-3220",
+        "processorCores": 4,
+        "processorSpeed": "3.3 GHz",
+        "cpuFlags": "de pse msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "INTEL Corporation",
+        "motherboardModel": "H61",
+        "motherboardSerial": "",
+        "biosVendor": "American Megatrends Inc.",
+        "biosVersion": "04.06.05",
+        "biosSerial": "",
+        "totalMemory": "8.47 GB",
+        "freeMemory": "3.93 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-10T11:13:44.715Z",
+        "expiryDate": "2025-06-22T11:13:44.715Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "8d314d42799680731b6fbc68e56a9f137d519a55cd96fde62dc4b3703c745fda",
+      "processorID": "BFEBFBFF000206A7",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000206A7",
+        "motherboardSerial": "BSN12345678901234567",
+        "biosSerial": "4B018072R",
+        "userName": "Qasmi Graphics",
+        "totalMemory": 4201541632,
+        "freeMemory": 1731248128,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i3-2310M",
+        "processorCores": 4,
+        "processorSpeed": "2.1 GHz",
+        "cpuFlags": "de tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "Intel Corporation",
+        "motherboardModel": "Oneonta Falls",
+        "motherboardSerial": "BSN12345678901234567",
+        "biosVendor": "American Megatrends Inc.",
+        "biosVersion": "04.06.03",
+        "biosSerial": "4B018072R",
+        "totalMemory": "4.20 GB",
+        "freeMemory": "1.61 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Home",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-09T17:50:49.273Z",
+        "expiryDate": "2025-06-21T17:50:49.274Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "cb6fc4801437d12f0ae0b572b36b9317489540d40b72f6fac58e85ee16b8d712",
+      "processorID": "BFEBFBFF000806C1",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000806C1",
+        "motherboardSerial": "PKWRPE31VFRTLL",
+        "biosSerial": "CND1405P35",
+        "userName": "sujee",
+        "totalMemory": 8317952000,
+        "freeMemory": 1667227648,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Gen Intel® Core™ i3-1115G4",
+        "processorCores": 4,
+        "processorSpeed": "3 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "HP",
+        "motherboardModel": "881D",
+        "motherboardSerial": "PKWRPE31VFRTLL",
+        "biosVendor": "Insyde",
+        "biosVersion": "F.68",
+        "biosSerial": "CND1405P35",
+        "totalMemory": "8.32 GB",
+        "freeMemory": "1.67 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 11 Home Single Language",
+        "osRelease": "10.0.26100",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-06T23:32:26.541Z",
+        "expiryDate": "2025-06-18T23:32:26.541Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "e98a1ab89f718f4edf6c394a462a30760518e5483b051dd8a324d352e94c8a11",
+      "processorID": "BFEBFBFF000406E3",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000406E3",
+        "motherboardSerial": "PFKZU00WBAO8MI",
+        "biosSerial": "5CG8142ZT2",
+        "userName": "mWX1378824",
+        "totalMemory": 17053683712,
+        "freeMemory": 11255451648,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-6300U",
+        "processorCores": 4,
+        "processorSpeed": "2.4 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "HP",
+        "motherboardModel": "8079",
+        "motherboardSerial": "PFKZU00WBAO8MI",
+        "biosVendor": "HP",
+        "biosVersion": "N75 Ver. 01.57",
+        "biosSerial": "5CG8142ZT2",
+        "totalMemory": "17.05 GB",
+        "freeMemory": "11.22 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19044",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-10T04:11:55.084Z",
+        "expiryDate": "2025-06-22T04:11:55.084Z",
+        "mode": 1,
+        "days": 12
       }
     }
   ]
