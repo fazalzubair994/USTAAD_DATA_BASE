@@ -21,7 +21,7 @@
     "primaryFontSize": 20,
     "direction": "ltr",
     "secondaryFontSize": 18,
-    "requestFont": "Noto-Sans-Devanagari",
+    "requestFont": "Noto Sans Devanagari",
     "fontURL": "https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@100..900&display=swap",
     "supportedLayouts": [
       { "name": "Devanagari-INSCRIPT", "id": 1, "status": 20 },
