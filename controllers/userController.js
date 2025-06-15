@@ -22,10 +22,21 @@ const formatTime = (date) => {
   return `${hour}:${minutes} ${ampm}`;
 };
 
+
+// Logger with Timestamp
+const logWithTime = (message) => {
+  const now = new Date().toLocaleString("en-PK", {
+    timeZone: "Asia/Karachi", // Adjust to your timezone
+    hour12: false,
+  });
+  console.log(`[${now}] ${message}`);
+};
+
+
 const checkUser = (req, res) => {
   try {
-    console.log("---------Checking New User-------------------");
-    console.log("Incoming request body:", JSON.stringify(req.body, null, 2));
+    logWithTime("---------Checking New User-------------------");
+    logWithTime("Incoming request body: " + JSON.stringify(req.body, null, 2));
 
     const newUserData = req.body;
 
@@ -44,11 +55,11 @@ const checkUser = (req, res) => {
     console.log("Does user already exist?", userExists);
 
     if (userExists) {
-      console.log("User with ID", userID, "already exists.");
+      logWithTime("User with ID: " +  userID +  " | already exists.");
       return res.status(200).send("User already exists");
     }
 
-    console.log("User does not exist. Creating new user...");
+    
     const currentDate = new Date();
 
     // Create the new user object
@@ -111,7 +122,7 @@ const checkUser = (req, res) => {
           return res.status(500).send("Error saving user data.");
         }
 
-        console.log("New user added successfully to users.json.");
+        logWithTime("New user added successfully to users.json.");
         return res.status(201).send("New user added successfully");
       }
     );
