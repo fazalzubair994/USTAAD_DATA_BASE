@@ -33,6 +33,17 @@ app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
 app.use("/api/desktop", desktopRoutes);
 
+
+// Logger with Timestamp
+const logWithTime = (message) => {
+  const now = new Date().toLocaleString("en-PK", {
+    timeZone: "Asia/Karachi", // Adjust to your timezone
+    hour12: false,
+  });
+  console.log(`[${now}] ${message}`);
+};
+
+
 app.get("/api/getData", (req, res) => {
   try {
     const { userID, keyboardName } = req.query;
@@ -63,9 +74,7 @@ app.get("/api/getData", (req, res) => {
     );
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
-    console.log("--------- Printing the user results ------");
-    console.log(user.results);
-    console.log(".............");
+    
 
     // Find the keyboard by name
     const keyboard = keyboards.find(
@@ -87,7 +96,7 @@ app.get("/api/getData", (req, res) => {
 
     // Send response
     res.json(requestedData);
-    console.log(
+    logWithTime(
       "userID: " +
         userID +
         " | Requet Layout: " +
@@ -105,8 +114,8 @@ app.post("/api/trackVisit", (req, res) => {
     const { siteName, siteUrl } = req.body;
 
     // Get user-related info from request
-console.log("----- New Site Visit Tracked -----");
-    console.log("Site Name: " + siteName + " | Site URL: " + siteUrl);
+logWithTime("----- New Site Visit Tracked -----");
+    logWithTime("Site Name: " + siteName + " | Site URL: " + siteUrl);
 
     res.status(200).send("Visit tracked successfully.");
   } catch (err) {
@@ -118,7 +127,7 @@ app.post("/api/userFeedback", (req, res) => {
   try {
     // Get user-related info from request
 
-    console.log("----- New Feedback arrived -----");
+    logWithTime("----- New Feedback arrived -----");
     console.log(req.body);
     console.log("----------------------------------");
 
