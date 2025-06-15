@@ -35,9 +35,6 @@ app.use("/api/desktop", desktopRoutes);
 
 app.get("/api/getData", (req, res) => {
   try {
-    console.log("--------------%%%%%%%%%%%%%%%%%%%%%%%%-------------------");
-    console.log("Incoming request query:", JSON.stringify(req.query, null, 2));
-
     const { userID, keyboardName } = req.query;
 
     // Validate userID
@@ -45,8 +42,7 @@ app.get("/api/getData", (req, res) => {
       console.error("Missing userID in query.");
       return res.status(400).send("Missing userID");
     }
-    console.log("Received userID:", userID);
-    console.log("Received keyboardName:", keyboardName);
+ 
     // Reload the users from the file
     const users = JSON.parse(fs.readFileSync("./data/users.json", "utf-8"));
     // Find the user by userID
@@ -91,7 +87,13 @@ app.get("/api/getData", (req, res) => {
 
     // Send response
     res.json(requestedData);
-    console.log("Response sent successfully.");
+    console.log(
+      "userID: " +
+        userID +
+        " | Requet Layout: " +
+        keyboardName +
+        " | Response sent successfully."
+    );
   } catch (error) {
     console.error("An unexpected error occurred:", error);
     return res.status(500).send("Internal server error.");
@@ -103,11 +105,8 @@ app.post("/api/trackVisit", (req, res) => {
     const { siteName, siteUrl } = req.body;
 
     // Get user-related info from request
-
-    console.log("----- New Site Visit Tracked -----");
-    console.log("Site Name:", siteName);
-    console.log("Site URL:", siteUrl);
-    console.log("----------------------------------");
+console.log("----- New Site Visit Tracked -----");
+    console.log("Site Name: " + siteName + " | Site URL: " + siteUrl);
 
     res.status(200).send("Visit tracked successfully.");
   } catch (err) {
