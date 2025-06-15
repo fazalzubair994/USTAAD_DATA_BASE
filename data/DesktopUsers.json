@@ -1677,5 +1677,125 @@
         "mode": 1,
         "days": 12
       }
+    },
+    {
+      "hmid": "fdb8a25d54797fb8c30510015d8f3301f1535f76c72ffd78f54b851ffec92ebc",
+      "processorID": "BFEBFBFF000806EA",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000806EA",
+        "motherboardSerial": "/85FRRN2/CNCMK0085400C9/",
+        "biosSerial": "85FRRN2",
+        "userName": "dell",
+        "totalMemory": 8462331904,
+        "freeMemory": 3353489408,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+        "cpuCores": 8
+      },
+      "moreInfo": {
+        "processorModel": "Intel Core™ i5-8350U",
+        "processorCores": 8,
+        "processorSpeed": "1.7 GHz",
+        "cpuFlags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "Dell Inc.",
+        "motherboardModel": "0MM81M",
+        "motherboardSerial": "/85FRRN2/CNCMK0085400C9/",
+        "biosVendor": "Dell Inc.",
+        "biosVersion": "1.33.0",
+        "biosSerial": "85FRRN2",
+        "totalMemory": "8.46 GB",
+        "freeMemory": "3.28 GB",
+        "osPlatform": "Windows",
+        "osDistro": "Microsoft Windows 10 Pro",
+        "osRelease": "10.0.19045",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-12T06:56:06.156Z",
+        "expiryDate": "2025-06-24T06:56:06.156Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "27a04bbed43215ab4a311e808ac521ecb2825c1536b6ba7d72505b40525210c6",
+      "processorID": "BFEBFBFF000306A9",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000306A9",
+        "motherboardSerial": "PDJBK018J3P337",
+        "biosSerial": "5CD2462YT7",
+        "userName": "Anshuman",
+        "totalMemory": 4188389376,
+        "freeMemory": 2665365504,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": " ",
+        "processorCores": 4,
+        "processorSpeed": "NaN GHz",
+        "cpuFlags": "de mce sep mtrr cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64",
+        "motherboardManufacturer": "",
+        "motherboardModel": "",
+        "motherboardSerial": "",
+        "biosVendor": "",
+        "biosVersion": "",
+        "biosSerial": "",
+        "totalMemory": "4.19 GB",
+        "freeMemory": "2.63 GB",
+        "osPlatform": "Windows",
+        "osDistro": "",
+        "osRelease": "6.1.7600",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-13T17:01:51.220Z",
+        "expiryDate": "2025-06-25T17:01:51.220Z",
+        "mode": 1,
+        "days": 12
+      }
+    },
+    {
+      "hmid": "102b6ced2e6da08d321339d6d1b070fc974fc8c76c8cbe7c4aec78229760b63e",
+      "processorID": "BFEBFBFF000206A7",
+      "systemInfo": {
+        "processorId": "BFEBFBFF000206A7",
+        "motherboardSerial": ".BS22GP1.CN7016615S02GD.",
+        "biosSerial": "BS22GP1",
+        "userName": "welcome",
+        "totalMemory": 3662860288,
+        "freeMemory": 2675097600,
+        "platform": "win32",
+        "arch": "ia32",
+        "cpuModel": "Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz",
+        "cpuCores": 4
+      },
+      "moreInfo": {
+        "processorModel": " ",
+        "processorCores": 4,
+        "processorSpeed": "NaN GHz",
+        "cpuFlags": "fpu de cx8 apic mtrr pge mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+        "motherboardManufacturer": "",
+        "motherboardModel": "",
+        "motherboardSerial": "",
+        "biosVendor": "",
+        "biosVersion": "",
+        "biosSerial": "",
+        "totalMemory": "3.66 GB",
+        "freeMemory": "2.65 GB",
+        "osPlatform": "Windows",
+        "osDistro": "",
+        "osRelease": "6.1.7600",
+        "osArch": "ia32"
+      },
+      "appMode": {
+        "startDate": "2025-06-14T10:52:40.362Z",
+        "expiryDate": "2025-06-26T10:52:40.362Z",
+        "mode": 1,
+        "days": 12
+      }
     }
   ]
