@@ -11,10 +11,17 @@ const getAllUsers = (req, res) => {
     return res.status(404).send("No User found.");
   }
 };
-
+// Logger with Timestamp
+const logWithTime = (message) => {
+  const now = new Date().toLocaleString("en-PK", {
+    timeZone: "Asia/Karachi", // Adjust to your timezone
+    hour12: false,
+  });
+  console.log(`[${now}] ${message}`);
+};
 const checkUser = (req, res) => {
   try {
-    console.log("---------Checking New Hmid-------------------");
+    logWithTime("---------Checking New Hmid-------------------");
 
     const newUserData = req.body;
    
@@ -24,13 +31,13 @@ const checkUser = (req, res) => {
     const existingUser = users.find((user) => user.hmid === hmid);
 
     if (existingUser) {
-      console.log("User already exists:", hmid);
+      logWithTime("User already exists: " + hmid);
       return res.json({ message: "User found.", user: existingUser });
     }
 
     // If user doesn't exist, add to the users array and save to file
     users.push(newUserData);
-console.log("New User Pushed:", hmid);
+logWithTime("New User Pushed: "+ hmid);
     // Write the updated users array back to the JSON file
     const filePath = path.join(__dirname, "../data/DesktopUsers.json");
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
