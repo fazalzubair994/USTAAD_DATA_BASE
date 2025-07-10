@@ -112,7 +112,7 @@ app.get("/api/getData", (req, res) => {
 app.post("/api/trackVisit", (req, res) => {
   try {
     const { siteName, siteUrl } = req.body;
-
+console.log("New Site Visit Tracked.....");
     // Get user-related info from request
 logWithTime("----- New Site Visit Tracked -----");
     logWithTime("Site Name: " + siteName + " | Site URL: " + siteUrl);
