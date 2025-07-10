@@ -4,7 +4,14 @@ const path = require("path"); // Add this line
 // Load the user data from the JSON file
 let users = require("../data/DesktopUsers.json");
 let logWithTime = require("../utils/logger"); // ✅ Import logger utility
-
+// Logger with Timestamp
+const logWithTimeS = (message) => {
+  const now = new Date().toLocaleString("en-PK", {
+    timeZone: "Asia/Karachi", // Adjust to your timezone
+    hour12: false,
+  });
+  console.log(`[${now}] ${message}`);
+};
 const getAllUsers = (req, res) => {
   if (users) {
     return res.status(201).json({ users: users });
@@ -16,6 +23,7 @@ const getAllUsers = (req, res) => {
 const checkUser = (req, res) => {
   try {
     logWithTime("---------Checking New Hmid-------------------");
+        logWithTimeS("---------Checking New Hmid-------------------");
 
     const newUserData = req.body;
    
@@ -26,12 +34,14 @@ const checkUser = (req, res) => {
 
     if (existingUser) {
       logWithTime("User already exists: " + hmid);
+      logWithTimeS("User already exists: " + hmid);
       return res.json({ message: "User found.", user: existingUser });
     }
 
     // If user doesn't exist, add to the users array and save to file
     users.push(newUserData);
 logWithTime("New User Pushed: "+ hmid);
+    logWithTimeS("New User Pushed: "+ hmid);
     // Write the updated users array back to the JSON file
     const filePath = path.join(__dirname, "../data/DesktopUsers.json");
     fs.writeFileSync(filePath, JSON.stringify(users, null, 2));
