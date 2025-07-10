@@ -11,7 +11,7 @@ const routeInfoRoutes = require("./routes/routeInfoRoutes");
 const userInterfaceRoutes = require("./routes/userInterfaceRoutes");
 const drillDataRoutes = require("./routes/drillMeterialsRoutes");
 const languageCards = require("./routes/languageCardsRoutes");
-const notifications = require("./routes/notificationRoutes");
+const notifications = require("./routes/notificationRoutes"); 
 
 const keyboards = require("./data/Keyboards");
 const UiData = require("./data/userInterface");
