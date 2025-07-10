@@ -11,12 +11,14 @@ const routeInfoRoutes = require("./routes/routeInfoRoutes");
 const userInterfaceRoutes = require("./routes/userInterfaceRoutes");
 const drillDataRoutes = require("./routes/drillMeterialsRoutes");
 const languageCards = require("./routes/languageCardsRoutes");
-const notifications = require("./routes/notificationRoutes"); 
+const notifications = require("./routes/notificationRoutes");
 
 const keyboards = require("./data/Keyboards");
 const UiData = require("./data/userInterface");
 const drillData = require("./data/dirllMeterials.json");
 const desktopRoutes = require("./routes/desktopRoutes");
+const logRoutes = require("./routes/logRoutes");
+const logWithTime = require("./utils/logger"); // ✅ Import here
 
 // Increase the JSON payload size limit
 app.use(express.json({ limit: "50mb" }));
@@ -32,17 +34,7 @@ app.use("/api/ui", userInterfaceRoutes);
 app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
 app.use("/api/desktop", desktopRoutes);
-
-
-// Logger with Timestamp
-const logWithTime = (message) => {
-  const now = new Date().toLocaleString("en-PK", {
-    timeZone: "Asia/Karachi", // Adjust to your timezone
-    hour12: false,
-  });
-  console.log(`[${now}] ${message}`);
-};
-
+app.use("/api/log", logRoutes);
 
 app.get("/api/getData", (req, res) => {
   try {
@@ -53,7 +45,7 @@ app.get("/api/getData", (req, res) => {
       console.error("Missing userID in query.");
       return res.status(400).send("Missing userID");
     }
- 
+
     // Reload the users from the file
     const users = JSON.parse(fs.readFileSync("./data/users.json", "utf-8"));
     // Find the user by userID
@@ -74,7 +66,6 @@ app.get("/api/getData", (req, res) => {
     );
 
     user.results = layoutResults.length > 0 ? layoutResults[0] : null;
-    
 
     // Find the keyboard by name
     const keyboard = keyboards.find(
@@ -112,9 +103,9 @@ app.get("/api/getData", (req, res) => {
 app.post("/api/trackVisit", (req, res) => {
   try {
     const { siteName, siteUrl } = req.body;
-console.log("New Site Visit Tracked.....");
+    console.log("New Site Visit Tracked.....");
     // Get user-related info from request
-logWithTime("----- New Site Visit Tracked -----");
+    logWithTime("----- New Site Visit Tracked -----");
     logWithTime("Site Name: " + siteName + " | Site URL: " + siteUrl);
 
     res.status(200).send("Visit tracked successfully.");
