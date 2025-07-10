@@ -3,6 +3,7 @@ const path = require("path"); // Add this line
 
 // Load the user data from the JSON file
 let users = require("../data/DesktopUsers.json");
+let logWithTime = require("../utils/logger"); // ✅ Import logger utility
 
 const getAllUsers = (req, res) => {
   if (users) {
@@ -11,14 +12,7 @@ const getAllUsers = (req, res) => {
     return res.status(404).send("No User found.");
   }
 };
-// Logger with Timestamp
-const logWithTime = (message) => {
-  const now = new Date().toLocaleString("en-PK", {
-    timeZone: "Asia/Karachi", // Adjust to your timezone
-    hour12: false,
-  });
-  console.log(`[${now}] ${message}`);
-};
+
 const checkUser = (req, res) => {
   try {
     logWithTime("---------Checking New Hmid-------------------");
