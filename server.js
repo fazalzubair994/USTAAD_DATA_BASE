@@ -35,7 +35,14 @@ app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
 app.use("/api/desktop", desktopRoutes);
 app.use("/api/log", logRoutes);
-
+// Logger with Timestamp
+const logWithTimeS = (message) => {
+  const now = new Date().toLocaleString("en-PK", {
+    timeZone: "Asia/Karachi", // Adjust to your timezone
+    hour12: false,
+  });
+  console.log(`[${now}] ${message}`);
+};
 app.get("/api/getData", (req, res) => {
   try {
     const { userID, keyboardName } = req.query;
@@ -106,7 +113,9 @@ app.post("/api/trackVisit", (req, res) => {
     console.log("New Site Visit Tracked.....");
     // Get user-related info from request
     logWithTime("----- New Site Visit Tracked -----");
+    logWithTimeS("----- New Site Visit Tracked -----");
     logWithTime("Site Name: " + siteName + " | Site URL: " + siteUrl);
+     logWithTimeS("Site Name: " + siteName + " | Site URL: " + siteUrl);
 
     res.status(200).send("Visit tracked successfully.");
   } catch (err) {
@@ -119,7 +128,9 @@ app.post("/api/userFeedback", (req, res) => {
     // Get user-related info from request
 
     logWithTime("----- New Feedback arrived -----");
+    logWithTimeS("----- New Feedback arrived -----");
     console.log(req.body);
+    logWithTime(req.body);
     console.log("----------------------------------");
 
     res.status(200).send("Feedback successfully recieved.");
