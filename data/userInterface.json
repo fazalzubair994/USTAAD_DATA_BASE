@@ -456,10 +456,11 @@
                   "serialNo": "1.4-4",
                   "index": 21,
                   "stars": {
-                    "totalStars": 3,
+                    "totalStars": 4,
+                    "netSpeed": 22,
                     "accuracy": 80,
                     "duration": 3,
-                    "score": 40,
+                    "maxNetSpeed": 40,
                     "minStars": 3
                   }
                 },
