@@ -1,7 +1,7 @@
-[{
-  "id": "qwertyBugFixNotice",
-  "title": "✔️ Important Update: Certificate Issue Fixed!",
-  "body": "We’ve fixed the issue in the English **QWERTY** keyboard course where *Sentence Practice (Lesson 4)* in Chapter 1 was not giving all three stars.\n\nTo apply the fix, please **delete the English [QWERTY] typing course and add it again**. Don’t worry—this will **not affect any of your results, progress, or user settings**. The updated course will automatically download the corrected lessons.\n\nThank you for reporting and helping us improve Ustaad Typing!",
-  
-}
+[
+  {
+    "id": "qwertyBugFixNotice",
+    "title": "✔️ Important Update: Certificate Issue Fixed!",
+    "body": "We’ve fixed the issue in the English **QWERTY** keyboard course where *Sentence Practice (Lesson 4)* in Chapter 1 was not giving all three stars.\n\nTo apply the fix, please **delete the English [QWERTY] typing course and add it again**. Don’t worry—this will **not affect any of your results, progress, or user settings**. The updated course will automatically download the corrected lessons.\n\nThank you for reporting and helping us improve Ustaad Typing!"
+  }
 ]
