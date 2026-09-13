@@ -2,7 +2,7 @@
   "1": {
     "id": "1",
     "DrillUI": {
-      "wordFramMargins": "0px",
+      "wordFramMargins": "0px", 
       "wordFramPaddings": "0px",
       "lineHeight": "0.06em",
       "keyFontSize_Lg": 28,
