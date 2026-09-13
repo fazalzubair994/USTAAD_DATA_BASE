@@ -1,7 +1,12 @@
 [
   {
-    "id": "qwertyBugFixNotice",
-    "title": "✔️ Important Update: Certificate Issue Fixed!",
-    "body": "We’ve fixed the issue in the English **QWERTY** keyboard course where *Sentence Practice (Lesson 4)* in Chapter 1 was not giving all three stars.\n\nTo apply the fix, please **delete the English [QWERTY] typing course and add it again**. Don’t worry—this will **not affect any of your results, progress, or user settings**. The updated course will automatically download the corrected lessons.\n\nThank you for reporting and helping us improve Ustaad Typing!"
+    "id": "certificateRequirementUpdate",
+    "title": "✔️ Certificate Requirement Updated!",
+    "body": "We’ve updated the certificate requirements for the typing course. **Special Symbols are no longer required** for the certificate. You now only need to complete the practice requirements for the **3 main chapters**.\n\nTo apply this update, please **delete the typing course and download it again**. Don’t worry—this will **not affect your existing results, progress, or user settings**. Your data will remain safe, and the updated certificate requirements will be applied automatically after downloading the course again.\n\nThank you for your patience and for helping us improve USTAAD Typing!"
+  },
+  {
+    "id": "arabicCourseBugFix",
+    "title": "✔️ Arabic Typing Course Updated!",
+    "body": "We’ve fixed several major bugs in the **Arabic typing course**, including issues that could cause incorrect characters to appear or prevent you from completing certain lessons.\n\nIf you are currently **stuck anywhere in the Arabic typing course**, please **delete the Arabic typing course and download it again**. This will install the updated course material with the fixes.\n\nDon’t worry—deleting and downloading the course again will **not affect your existing results, progress, or user settings**.\n\nThank you for reporting these issues and helping us improve USTAAD Typing!"
   }
 ]
