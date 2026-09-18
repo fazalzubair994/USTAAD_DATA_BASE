@@ -109,6 +109,43 @@
     "fatherName": "Fayaz-Ur-Rehman",
     "country": "Pakistan",
     "userEmail": "muhammadhuzaifakhan2122@gmail.com"
+  },
+  "828816": {
+    "crNumber": "828816",
+    "language": "Urdu",
+    "layout": "Phonetic 1.1",
+     "startDate": "Jan 10, 2026",
+    "endDate": "2026-09-18",
+    "userID": "2039",
+    "userName": "Muhammad Hamza Khan",
+    "fatherName": "Muhammad Naeem Khan",
+    "country": "Pakistan",
+    "userEmail": "m.hzkhan26@gmail.com"
+  },
+
+   "145904": {
+    "crNumber": "145904",
+    "language": "Urdu",
+    "layout": "Phonetic 1.1",
+     "startDate": "Jun 10, 2026",
+    "endDate": "Sep 17, 2026",
+    "userID": "4789",
+    "userName": "SAYED RIAZ",
+    "fatherName": "MUHAMMAD PEROOZ",
+    "country": "Pakistan",
+    "userEmail": "bassamadnani242@gmail.com"
+  },
+  "145905": {
+    "crNumber": "145905",
+    "language": "Arabic",
+    "layout": "Arabic (101)",
+     "startDate": "Jun 22, 2026",
+    "endDate": "Sep 18, 2026",
+    "userID": "4789",
+    "userName": "SAYED RIAZ",
+    "fatherName": "MUHAMMAD PEROOZ",
+    "country": "Pakistan",
+    "userEmail": "bassamadnani242@gmail.com"
   }
 
 
