@@ -19,6 +19,9 @@ const drillData = require("./data/dirllMeterials.json");
 const desktopRoutes = require("./routes/desktopRoutes");
 const logRoutes = require("./routes/logRoutes");
 const logWithTime = require("./utils/logger"); // ✅ Import here
+const logObject = require("./utils/ObjectLogger"); // ✅ Import here
+
+const objectLoggerRoutes = require("./routes/obectLoggerRoutes");
 
 // Increase the JSON payload size limit
 app.use(express.json({ limit: "50mb" }));
@@ -35,6 +38,8 @@ app.use("/api/drillData", drillDataRoutes);
 app.use("/api/info", routeInfoRoutes);
 app.use("/api/desktop", desktopRoutes);
 app.use("/api/log", logRoutes);
+
+
 // Logger with Timestamp
 const logWithTimeS = (message) => {
   const now = new Date().toLocaleString("en-PK", {
@@ -107,7 +112,25 @@ app.get("/api/getData", (req, res) => {
   }
 });
 
+app.use("/api/object-log", objectLoggerRoutes);
+
 app.post("/api/trackVisit", (req, res) => {
+  try {
+    const { siteName, siteUrl } = req.body;
+    console.log("New Site Visit Tracked.....");
+    // Get user-related info from request
+    logWithTime("----- New Site Visit Tracked -----");
+    logWithTimeS("----- New Site Visit Tracked -----");
+    logWithTime("Site Name: " + siteName + " | Site URL: " + siteUrl);
+     logWithTimeS("Site Name: " + siteName + " | Site URL: " + siteUrl);
+
+    res.status(200).send("Visit tracked successfully.");
+  } catch (err) {
+    console.error("Error tracking visit:", err);
+    res.status(500).send("Failed to track visit.");
+  }
+});
+app.post("/api/log", (req, res) => {
   try {
     const { siteName, siteUrl } = req.body;
     console.log("New Site Visit Tracked.....");
